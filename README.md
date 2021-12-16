@@ -19,3 +19,9 @@ Extract the tar file, then run ./save_locator
 ## Windows
 
 Extract the rar file then run save_locator.exe
+
+# How you can help
+
+Games and their respective save files are ordered in the [save locations text file](https://github.com/popcar2/SaveGameExtractor/blob/master/save_locations.txt). I compiled this by hand from a couple of different sources. Needless to say, it's not 100% complete. **If you know a game that isn't on the list and is in a public directory, please suggest adding it [by making an issue!](https://github.com/popcar2/SaveGameExtractor/issues)**
+
+Big shoutout to the contributors at [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home), which is where I got most of these from.
