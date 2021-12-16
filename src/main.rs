@@ -1,0 +1,126 @@
+use std::{fs::{self, create_dir_all}, path::Path, io, io::Write};
+use colored::Colorize; 
+use fs_extra::dir::{copy, CopyOptions, get_size};
+// TODO: Add case for C:\ProgramData\.
+// Chicken Invaders
+// Child of light
+// NFS Underground
+// Peggle games
+// Plants vs. Zombies
+// Tom Clancy's Splinter Cell: Double Agent
+// Zuma games
+
+// TODO: What happens if two save games of the same thing are found
+
+fn main() {
+    // This text file holds all save game locations
+    let save_locations_file = fs::read_to_string("save_locations.txt").unwrap();
+
+    // Get the C:\ drive path from user input
+    print!("Where is your C:\\ mount? (If you're on windows just press enter): ");
+    std::io::stdout().flush().unwrap();
+    let mut global_path = String::new();
+    io::stdin().read_line(&mut global_path).unwrap();
+
+    // If user didn't type anything, default to C:\
+    let mut global_path = global_path.trim().to_owned();
+    if global_path.is_empty(){
+        global_path.push_str("C:\\");
+    }
+
+    // A Hashmap that stores every found save game as (game_name, save_location)
+    let save_vector: Vec<(String, String)> = find_save_games(save_locations_file, global_path);
+
+    loop{
+        println!("Type the number of the save you'd like to copy, or its full name, or type ALL to copy all the save files!");
+        print!("Input: ");
+        std::io::stdout().flush().unwrap();
+        let mut user_input = String::new();
+        io::stdin().read_line(&mut user_input).unwrap();
+
+        let (game_name, full_save_path) = match user_input.trim().parse::<usize>(){
+            Ok(n) => save_vector.get(n - 1).unwrap().clone(), 
+            Err(_) => {
+                (String::new(), String::new())
+            }
+        };
+
+        println!("{}", full_save_path);
+
+        let target_location = format!("Saves\\{}", game_name);
+
+        copy_save_game(game_name, full_save_path, target_location);
+    }
+}
+
+// A function to find every save game and store it in a hashmap
+fn find_save_games(save_locations_file: String, global_path: String) -> Vec<(String, String)>{
+    
+    let mut save_vector: Vec<(String, String)> = Vec::new();
+
+    let mut save_found_counter: u32 = 1;
+
+    for user in fs::read_dir(format!("{}{}", global_path, "Users\\")).unwrap(){
+        let user_name = user.as_ref().unwrap().file_name();
+        let user_name = user_name.to_str().unwrap();
+        // "All Users" leads to ProgramData, "Default User" is the same as "Default" IIRC
+        // And for some reason Rust is convincd desktop.ini is a directory
+        if user_name == "All Users" || user_name == "Default User" || user_name == "desktop.ini"{
+            continue;
+        }
+        let full_user_path = user.unwrap().path();
+        let full_user_path = full_user_path.to_str().unwrap();
+
+        for line in save_locations_file.lines(){
+            let game_name = line.split(',').next().unwrap().trim();
+            let save_path = line.split(',').nth(1).unwrap().trim();
+            let full_save_path = format!("{}\\{}", full_user_path, save_path);
+            //let mut target_path = format!("Saves\\{}", game_name);
+            
+            if folder_exists(&full_save_path){
+
+                save_vector.push((game_name.to_owned(), full_save_path.clone()));
+
+                println!("{}. {}: {}", save_found_counter.to_string().yellow(), game_name.green(), full_save_path);
+
+                save_found_counter += 1;
+
+                
+            }
+        }
+    }
+
+    save_vector
+}
+
+fn copy_save_game(game_name: String, full_save_path: String, mut target_path: String){
+    let dir_size = get_size(&full_save_path).unwrap();
+    let mut options = CopyOptions::new();
+    options.overwrite = true;
+
+    if dir_size > 52428800{
+        println!("{} is {}mb!", game_name.red(), dir_size / 1024 / 1024);
+    }
+    else{
+        if !folder_exists(&target_path){
+            remove_illegal_chars(&mut target_path);
+            create_dir_all(&target_path).unwrap();
+        }
+
+        copy(&full_save_path, target_path, &options).unwrap();
+    }
+}
+
+// Just shorthand for checking if folder exists
+fn folder_exists(path: &str) -> bool{
+    if Path::new(path).is_dir(){
+        return true;
+    }
+    false
+}
+
+// Removes illegal characters from a string (for making clean directory names)
+fn remove_illegal_chars(str: &mut String){
+    // Got this from https://users.rust-lang.org/t/fast-removing-chars-from-string/24554/5
+    str.retain(|c| !r#"#<$+%>!`&*|{}?"=:@"#.contains(c));
+}

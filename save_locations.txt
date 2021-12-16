@@ -1,0 +1,1409 @@
+.T.E.S.T: Expected Behaviour, AppData\LocalLow\Veslo Games\Test Expected Behaviour\
+007 Legends, Documents\My Games\Activision\007 Legends\
+007: Quantum of Solace, AppData\Local\Microsoft\XLive\Content\01100001007F57F2\
+0rbitalis, AppData\Roaming\0RBITALIS\
+1 Screen Platformer, AppData\Local\OneScreenPlatformStaticGM14\
+10 Second Ninja, AppData\Local\10_Second_Ninja\
+200% Mixed Juice!, Documents\Fruitbat Factory\200% Mixed Juice!\
+2064: Read Only Memories, AppData\LocalLow\MidBoss\2064_ Read Only Memories\
+20XX, Documents\20XX\
+3079, 3079Saves\
+3089, 3089\
+5089, 5089\
+5D Chess With Multiverse Time Travel, AppData\Roaming\Thunkspace\5dchesswithmultiversetimetravel\
+60 Parsecs!, Software\Robot Gentleman\60 Parsecs\
+60 Seconds!, AppData\LocalLow\Robot Gentleman\60 Seconds
+7 Billion Humans, AppData\Roaming\7 Billion Humans\
+7 Days to Die, AppData\Roaming\7DaysToDie\Saves\
+80 Days, AppData\LocalLow\Inkle Studios\80 Days\
+911 Operator, AppData\LocalLow\JutsuGames\911 Operator\
+A Knight's Quest, AppData\Local\AKnightsQuest\Saved\
+A Plague Tale: Innocence, Documents\My Games\A Plague Tale Innocence\
+A Robot Named Fight!, Appdata\LocalLow\Matt Bitner\A Robot Named Fight\
+A Short Hike, AppData\LocalLow\adamgryu\A Short Hike\
+A Total War Saga: Troy, AppData\Roaming\The Creative Assembly\Troy\save_games
+A Virus Names TOM, Documents\SavedGames\avnt\CircuitGameData\
+A Wizard's Lizard, AppData\Local\A Wizard's Lizard
+Absolver, AppData\Local\Absolver\Saved\
+Abzû, AppData\Local\AbzuGame\Saved\SaveGames\
+Ace Combat 7: Skies Unknown, AppData\Local\BANDAI NAMCO Entertainment\ACE COMBAT 7\ 
+Ace Combat: Assault Horizon, Documents\NAMCO\ACAH\
+Adrift, AppData\Local\ADR1FT\Saved\SaveGames\
+Age of Empires 2: Definitive Edition, Games\Age of Empires 2 DE\
+Age of Empires 3, Documents\My Games\Age of Empires 3\
+Age of Empires 3: Definitive Edition, Games\Age of Empires 3 DE\
+Age of Empires 4, Documents\My Games\Age of Empires IV\
+Age of Empires: Definitive Edition, AppData\Local\Packages\ActiveSync\LocalState\Games\Age of Empires DE\Saved Games\
+Age of Empires: Definitive Edition, Games\Age of Empires DE\
+AI: The Somnium Files, AppData\Local\SpikeChunsoft\AI The Somnium Files\
+Alan Wake, Documents\Remedy\AlanWake\
+Alan Wake Remastered, Documents\Remedy\AlanWakeRemastered
+Alan Wake's American Nightmare, Documents\Remedy\AmericanNightmare_GOG_Version\
+Alice: Madness Returns, Documents\My Games\Alice Madness Returns\
+American McGee's Alice, Documents\My Games\American McGee's Alice\
+Amid Evil, AppData\Local\AmidEvil\Saved\
+Amnesia: A Machine for Pigs, Documents\Amnesia\Pig\
+Amnesia: Rebirth, Documents\My Games\Amnesia Rebirth\Main\
+Amnesia: The Dark Descent, Documents\Amnesia\Main\
+Among the Sleep, AppData\LocalLow\Krillbite Studio\Among The Sleep\
+Among Us, \AppData\LocalLow\Innersloth\Among Us\
+Ancestors: The Humankind Odyssey, Ancestors\Saved\SaveGames\
+Angry Birds, AppData\Roaming\Rovio\Angry Birds\
+Angry Video Game Nerd Adventures, AppData\Roaming\MMFApplications\
+Angry Video Game Nerd II: ASSimilation, \AppData\LocalLow\ScrewAttackGames\AVGN2\
+Anno 1404, AppData\Roaming\Ubisoft\Anno1404\Profiles\
+Anno 1404, Documents\Anno 1404\Savegames
+Anno 1404: Venice, Documents\Anno 1404 Venice\Savegames
+Anno 1503: History Edition, Documents\Anno 1503 History Edition\SaveGame\Profilename\
+Anno 1602: History Edition, Documents\Anno1602 History Edition\
+Anno 1800, Documents\Anno 1800\
+Anno 2070, Documents\ANNO 2070\Accounts\
+Anno 2070, AppData\Roaming\Ubisoft\ANNO 2070\Accounts\
+Anodyne, \.Anodyne
+Anodyne 2: Return to Dust, AppData\LocalLow\Analgesic Productions LLC\Anodyne 2
+Another Metroid 2 Remake: Return of Samus (you are very based btw), AppData\Local\AM2R
+Another Eden, AppData\Local\AnotherEden\
+Antihero, AppData\Roaming\com.timconkling.aciv\Local Store\SavedGames\
+Apex Legends (config files), Saved Games\Respawn\Apex\
+Aragami, AppData\LocalLow\Lince Works\Aragami\
+Aragami 2, AppData\Local\Packages\34421DavidLen.Aragami2_ad789ek20a95w\SystemAppData\wgs\
+ArmA 2, \Documents\ArmA 2\
+ArmA 3, Documents\Arma 3\
+ArmA: Armed Assault, \Documents\ArmA\
+Armed with Wings: Rearmed, Documents\My Games\Armed with Wings Rearmed\
+Armello, AppData\LocalLow\League of Geeks\Armello\
+Ashen, AppData\Local\Ashen\Saved\
+Assassin's Creed, AppData\Roaming\Ubisoft\Assassin's Creed\
+Astroneer, AppData\Local\Astro\Saved\SaveGames\
+Astroneer, AppData\Local\Packages\SystemEraSoftworks.29415440E1269_ftk5pbg2rayv2\SystemAppData\wgs\
+Attack on Titan, Documents\KoeiTecmo\Attack on Titan\
+Attack on Titan 2, Documents\KoeiTecmo\Attack on Titan2_AOT2\
+Auto Chess, AppData\Local\AutoChess\Saved\SaveGames\
+Axiom Verge, Documents\SavedGames\AxiomVerge\Saves\
+Axiom Verge 2, Documents\SavedGames\AxiomVerge2\
+Baba Is You, AppData\Roaming\Baba_Is_You\
+Back 4 Blood, AppData\Local\Back4Blood\Steam\Saved\SaveGames\
+Back 4 Blood, AppData\Local\Packages\WarnerBros.Interactive.e172091a-6630-4ff3-959f-830_ktmk1xygcecda\SystemAppData\wgs\
+Back to Bed, Documents\My Games\Back to Bed\
+Balan Wonderworld, Documents\My Games\BALAN WONDERWORLD\Steam\
+Baldur's Gate 2: Enhanced Edition, Documents\Baldur's Gate II - Enhanced Edition
+Baldur's Gate: Enhanced Edition, Documents\Baldur's Gate - Enhanced Edition
+Batman: Arkham Asylum, Documents\Square Enix\Batman Arkham Asylum GOTY\
+Batman: Arkham City, Documents\WB Games\Batman Arkham City GOTY\SaveData\
+Batman: Arkham Origins, Documents\WB Games\Batman Arkham Origins\
+Batman: The Enemy Within - The Telltale Series, Documents\Telltale Games\Batman The Enemy Within - The Telltale Series\
+Batman: The Telltale Series, Documents\Telltale Games\Batman The Telltale Series\
+Battlefield 1, Documents\Battlefield 1\
+Battlefield 2, Documents\Battlefield 2\
+Battlefield 2042, Documents\Battlefield 2042\settings\
+Battlefield 2142, Documents\Battlefield 2142\
+Battlefield 3, Documents\Battlefield 3\
+Battlefield 4, Documents\Battlefield 4\settings\
+Battlefield Hardline, Documents\BFH\
+Battlefield V, Documents\Battlefield V\settings\
+Battlefield: Bad Company, Documents\BFBC2\
+Battletoads, AppData\Local\Packages\Microsoft.Frogspawn_8wekyb3d8bbwe\SystemAppData\wgs\
+Bayonetta, Documents\Bayonetta\
+BDSM: Big Drunk Satanic Massacre, AppData\LocalLow\Big Way Games\Big Drunk Satanic Massacre
+BeamNG.drive, AppData\Local\BeamNG.drive\
+Beat Hazard Ultra, AppData\Roaming\Beat Hazard
+Beat Hazard 2, Documents\ColdBeamGames\BeatHazard2\
+Beat Saber, AppData\LocalLow\Hyperbolic Magnetism\Beat Saber
+Bejeweled 3, AppData\Local\PopCap Games\Bejeweled3\users\
+Bioshock, Documents\Bioshock\
+Bioshock Remastered, Documents\BioshockHD\
+Bioshock 2, Documents\Bioshock2\SaveGames\
+Bioshock 2, AppData\Roaming\Bioshock2Steam\
+Bioshock 2 Remastered, Documents\BioshockHD\Bioshock2\SaveGames\
+Bioshock Infinite, Documents\My Games\BioShock Infinite
+BIT.TRIP BEAT, AppData\Local\Gaijin Games\BIT.TRIP BEAT
+BIT.TRIP CORE, AppData\Local\BIT.TRIP CORE\
+BIT.TRIP FATE, AppData\Local\Gaijin Games\BIT.TRIP FATE\
+BIT.TRIP FLUX, AppData\Local\Gaijin Games\BIT.TRIP FLUX
+BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien, AppData\Local\Gaijin Games\Runner2
+BIT.TRIP VOID, AppData\Local\BIT.TRIP VOID\
+Blasphemous, AppData\LocalLow\TheGameKitchen\Blasphemous
+BlazBlue: Calamity Trigger, Documents\ARC SYSTEM WORKS\BLAZBLUE-CT\
+Blazing Beaks, AppData\Local\BlazingBeaks\
+Bleed, Documents\SavedGames\Bleed\Bleed\AllPlayers\
+Bleed 2, AppData\Roaming\Bleed2\
+Bloodrayne 2: Terminal Cut, Documents\BloodRayne2\savegame\
+BloodRayne: Betrayal, AppData\Roaming\Wayforward Technologies\BloodRayne\
+BloodRayne: Terminal Cut, Documents\BloodRayne1\savegame\
+Bloodstained: Ritual of the Night, AppData\Local\BloodstainedRotN\Saved\
+Blur, AppData\Roaming\bizarre creations\blur\save\
+Book of Demons, AppData\Roaming\Return2Games_WIP21
+Borderlands, Documents\My Games\Borderlands\
+Borderlands 2, Documents\My Games\Borderlands 2\WillowGame
+Borderlands 3, Documents\My Games\Borderlands 3\
+Borderlands GOTY, Documents\My Games\Borderlands Game of the Year\
+Borderlands: The Pre-Sequel, Documents\My Games\Borderlands The Pre-Sequel\
+BPM: Bullets Per Minute, AppData\Local\BPM\Saved
+Braid, AppData\Roaming\Braid\
+Bravely Default 2, Documents\My Games\Bravely_Default_II\
+Bridge Constructor, AppData\LocalLow\ClockStone Software GmbH\Bridge Constructor
+Bridge Constructor Medieval, AppData\LocalLow\ClockStone Software GmbH\Bridge Constructor Medieval
+Bridge Constructor Playground, AppData\LocalLow\ClockStone Software GmbH\Bridge Constructor Playground\
+Bridge Constructor Portal, \AppData\LocalLow\ClockStone Software GmbH\Bridge Constructor Portal\
+Bridge Constructor: The Walking Dead, AppData\LocalLow\ClockStone Software GmbH\BC TWD\
+Broforce, AppData\LocalLow\Free Lives\Broforce\Saves\
+Broken Age, Documents\BrokenAge\
+Brütal Legend, AppData\Roaming\Doublefine\BrutalLegend\
+Budget Cuts, \Documents\Budget Cuts Save Data\
+Budget Cuts, AppData\LocalLow\Neat Corporation\Budget Cuts
+Bugsnax, Saved Games\Bugsnax\
+Bully: Scholarship Edition, Documents\Bully Scholarship Edition\
+Burnout Paradise, AppData\Local\Criterion Games\Burnout Paradise\
+Burnout Paradise: Remastered, Criterion Games\Burnout Paradise Remastered
+Call of Cthulhu, AppData\Local\CallOfCthulhu\Saved\SaveGames\
+Call of Cthulhu: Dark Corners of the Earth, Documents\Bethesda\Call of Cthulhu\
+Call of the Sea, AppData\Local\COTS\Saved\SaveGames\
+Call of the Sea, AppData\Local\Packages\RawFury.CallofTheSeaW10_9s0pnehqffj7t\SystemAppData\wgs\
+Carmageddon: Reincarnation, Documents\Carmageddon Reincarnation\
+CastleMiner Z, AppData\Local\CastleMinerZ
+Castlevania Advance Collection, AppData\Roaming\Castlevania Advance Collection\savedata\
+Castlevania Anniversary Collection, AppData\Roaming\Castlevania Anniversary Collection
+Castlevania: Lords of Shadow - Mirror of Fate HD, \Documents\MercurySteam\Castlevania Lords of Shadow Mirror of Fate HD\
+Catherine: Classic, AppData\Roaming\TheEccentricApe\Catherine\
+Caveblazers, AppData\Local\Caveblazers\
+Chaos;Child, Documents\My Games\mages_dmm\CHAOS CHILD
+Chaos;Head, AppData\Roaming\Nitroplus\CHAOS;HEAD
+Chasm, Documents\Chasm\
+Chernobylite, AppData\Local\ChernobylGame\Saved\
+Chex Quest HD, AppData\Local\ChexHD\Saved\SaveGames\
+Children of Morta, AppData\Local\GOG.com\Galaxy\Applications\49845465038978536\Storage\Shared\Files
+Children of the Nile, Documents\Tilted Mill\Children of the Nile\
+Chrono Trigger, Documents\My Games\Chrono Trigger\
+Cities In Motion, Documents\Cities In Motion\
+Cities In Motion 2, AppData\LocalLow\Colossal Order\Cities in Motion 2
+Cities: Skylines, AppData\Local\Colossal Order\Cities_Skylines\
+City of Brass, AppData\Local\COB\Saved\
+City of Brass, AppData\Local\COB\Saved_EGS\
+Civilization IV, Documents\My Games\Sid Meier's Civilization IV\
+Civilization IV, Documents\My Games\Warlords\
+Civilization IV, Documents\My Games\Beyond the Sword\
+Civilization IV, Documents\My Games\Civ4\
+Civilization IV, Documents\My Games\Sid Meier's Civilization IV\
+Civilization IV: Colonization, Documents\My Games\Civilization IV Colonization\
+Civilization V, Documents\My Games\Sid Meier's Civilization 5\
+Civilization VI, Documents\My Games\Sid Meier's Civilization VI\
+Civilization VI, Documents\My Games\Sid Meier's Civilization VI (Epic)
+Cloudpunk, AppData\LocalLow\Ion Lands\Cloudpunk\
+Cobalt, AppData\Roaming\Cobalt\
+Coin Crypt, AppData\Local\Coin\save
+Command & Conquer 4, Saved Games\Command and Conquer 4\
+Command & Conquer Remastered Collection, Documents\CnCRemastered\Save\
+Command & Conquer: Generals, Documents\Command and Conquer Generals Data\
+Command & Conquer: Generals, Documents\Command and Conquer Generals Zero Hour Data\Save\
+Command & Conquer: Red Alert 3, Saved Games\Red Alert 3\
+Company of Heroes, Documents\My Games\Company of Heroes\
+Company of Heroes, Documents\My Games\Company of Heroes Relaunch\
+Company of Heroes 2, Documents\My Games\Company of Heroes 2\Savegames\
+Conquest of Elysium 3, AppData\Roaming\coe3\
+Conquest of Elysium 4, AppData\Roaming\coe4\
+Cook Serve Delicious!, AppData\Local\CSDSteamBuild\
+Cook Serve Delicious! 2!!, AppData\Local\NEW_CSD2_PS4Steam
+Cook Serve Delicious! 3?!, AppData\Local\CSD3_Foodtruck\
+Corpse Party, AppData\Roaming\CorpseParty
+Corpse Party: Blood Drive, AppData\LocalLow\XSEED\Corpse Party_ Blood Drive\
+Costume Quest, AppData\Roaming\Doublefine\CostumeQuest
+Costume Quest 2, AppData\Roaming\Doublefine\CostumeQuest2\
+Crackdown 3, AppData\Local\Packages\Microsoft.48248D2C77101_8wekyb3d8bbwe\SystemAppData\wgs\
+Craftopia, AppData\LocalLow\PocketPair\Craftopia\
+Crash Bandicoot N. Sane Trilogy, AppData\Roaming\Crash Bandicoot(TM) N. Sane Trilogy\
+Crash Bandicoot 4: It's About Time, AppData\Local\CrashBandicoot4\
+Crashlands, AppData\Local\Crashlands\
+Crayon Physics Deluxe, AppData\Roaming\Crayon Physics Deluxe\
+Crazy Taxi, Documents\SEGA\Crazy Taxi\
+Cris Tales, AppData\LocalLow\Dreams Uncorpored LLC\Cristales\
+CrossCode, AppData\Local\CrossCode\
+CrossCode, AppData\Local\Packages\DECK13.CrossCodePC_rn1dn9jh54zft\LocalCache\Local\CrossCode\
+Crusader Kings II, Documents\Paradox Interactive\Crusader Kings II\
+Crusader Kings III, Documents\Paradox Interactive\Crusader Kings III\
+Crysis, Documents\My Games\Crysis\
+Crysis 2, Saved Games\Crysis2\SaveGames\
+Crysis 3, Saved Games\Crysis3\
+Crysis Remastered, Saved Games\CrysisRemastered\
+Crystal Story II, AppData\Roaming\com.emmanuelsalvacruz.crystalstory2\Local Store\#SharedObjects\
+Cube Escape Collection, Documents\Rusty Lake\CubeEscapeCollection\
+Cube Escape Paradox, Documents\Rusty Lake\Paradox\
+Cuphead, AppData\Roaming\Cuphead\
+Cut the Rope, Documents\SavedGames\CutTheRope\
+Cyberpunk 2077, Saved Games\CD Projekt Red\Cyberpunk 2077
+Daemon X Machina, AppData\Local\DXM\Saved\SaveGames
+Danganronpa: Trigger Happy Havoc, Documents\My Games\Danganronpa\
+Danganronpa 2, Documents\My Games\Danganronpa2\
+Danganronpa Another Episode: Ultra Despair Girls, Documents\My Games\DanganAnother\
+Dark Souls II, AppData\Roaming\DarkSoulsII\
+Dark Souls III, AppData\Roaming\DarkSoulsIII\
+Dark Souls Remastered, Documents\NBGI\DARK SOULS REMASTERED\
+Dark Souls: Prepare to Die Edition, Documents\NBGI\DarkSouls\
+Darkest Dungeon, Documents\Darkest\
+Darkest Dungeon 2, AppData\LocalLow\RedHook\Darkest Dungeon II\
+Darksiders Gensis, AppData\Local\THQ Nordic\Darksiders Genesis\Saved\SaveGames\
+Darksiders Gensis, AppData\Local\Packages\NordicGames.60987E91223DD_46xc33nm0q0f8\LocalCache\Local\THQ Nordic\Darksiders Genesis\Saved\SaveGames\
+Darksiders II, Documents\My Games\darksiders 2\
+Darksiders III, AppData\Local\Darksiders3\Saved\SaveGames\
+Darksiders III, AppData\Local\Packages\NordicGames.DarksidersIII_46xc33nm0q0f8\LocalCache\Local\Darksiders3\Saved\SaveGames\
+Darksiders Warmastered Edition, Saved Games\darksiders1.exe\
+Darkwood, AppData\LocalLow\Acid Wizard Studio\DARKWOOD\
+Day of the Tentacle Remastered, AppData\Roaming\Doublefine\DayOfTheTentacle\
+Days Gone, AppData\Local\BendGame\Saved\
+DayZ (configs), Documents\DayZ\
+De Blob, AppData\Roaming\deblob\
+De Blob 2, AppData\Roaming\deblob2\
+Dead Cells, AppData\Local\Packages\MotionTwin.DeadCellsWin10_rtjy889c6zgtg\LocalCache\Local\MotionTwin\DeadCells
+Dead or Alive 5 Last Round, Documents\KoeiTecmo\DOA5LR\
+Dead Pixels, Documents\SavedGames\Dead Pixels\
+Dead Rising 2, Documents\My Games\Dead Rising 2\
+Dead Rising 2: Off the Record, Documents\My Games\Dead Rising 2 Off The Record\
+Dead Rising 3, Documents\My Games\Dead Rising 3\
+Dead Rising 4, Documents\My Games\Dead Rising 4\
+Dead Rising 4, AppData\Local\Packages\3F65914F.SwaggerPC_rdarpxrtkxb3r\SystemAppData\wgs
+Dead Space, Documents\Electronic Arts\Dead Space\
+Dead Space 2, Documents\EA Games\Dead Space 2\
+Dead Space 3, Documents\EA Games\Dead Space 3\
+Deadbolt, AppData\Local\deadbolt_game\
+Death Road to Canada, AppData\Roaming\.madgarden\DR2C
+Death's Gambit, AppData\Local\deathsgambit397\
+Deathloop, Saved Games\Arkane Studios\Deathloop\base\
+Deep Rock Galactic, Packages\CoffeeStainStudios.DeepRockGalactic_496a1srhmar9w\SystemAppData\wgs\
+Deltarune, AppData\Local\DELTARUNE\
+Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles, AppData\Local\APK\Saved\
+DemonCrawl, AppData\Local\DemonCrawl
+Deponia, AppData\Local\Daedalic Entertainment\Deponia\
+Deponia Doomsday, AppData\Local\Daedalic Entertainment GmbH\Deponia 4\Savegames\
+Deponia: The Complete Journey, AppData\Local\Daedalic Entertainment GmbH\Deponia The Complete Journey\
+Desperados: Wanted Dead or Alive, AppData\Roaming\THQNordic\Desperados\
+Desperados 2: Cooper's Revenge, Documents\Cooper's Revenge\Savegame\
+Desperados 3, AppData\Local\Desperados III\
+Destiny 2 (configs), AppData\Roaming\Bungie\DestinyPC\prefs
+Destroy All Humans!, AppData\Local\DH\Saved\
+Detective Grimoire, AppData\Roaming\air.com.sfbgames.DetectiveGrimoire\Local Store\#SharedObjects\
+Detention, AppData\LocalLow\RedCandleGames\Detention\
+Detroit: Become Human, Saved Games\Quantic Dream\Detroit Become Human\
+Deus Ex: Human Revolution - Director's Cut, Documents\My Games\Deus Ex HRDC\
+Deus Ex: Invisible War, Documents\Deus Ex - Invisible War\
+Deus Ex: Mankind Divided, Documents\My Games\Deus Ex Mankind Divided\
+Deus Ex: The Fall, \AppData\LocalLow\N_Fusion Interactive\Deus Ex_ The Fall\
+Devil May Cry 4, Documents\CAPCOM\DEVILMAYCRY4\
+Devil May Cry 4: Special Edition, Documents\CAPCOM\DEVILMAYCRY4SPECIALEDITION\
+Devil May Cry HD Collection, Documents\My Games\Devil May Cry HD Collection\
+Devotion, AppData\LocalLow\RedCandleGames\Devotion\
+Diablo II, Saved Games\Diablo II
+Diablo II: Resurrected, Saved Games\Diablo II Resurrected
+Dicey Dungeons, AppData\Roaming\Terry Cavanagh Games\diceydungeons\
+Digimon Story: Cyber Sleuth Complete Edition, AppData\Local\BANDAI NAMCO Entertainment\Digimon Story Cyber Sleuth Complete Edition\Saved\SaveGames\
+Dino Run DX, AppData\Roaming\com.pixeljam.dinorundx\Local Store\
+DiRT 3, Documents\My Games\DiRT3\savegame\
+DiRT 4, Documents\My Games\DiRT 4\
+DIRT 5, AppData\Local\Packages\CodemastersSoftwareCompan.DiRT5_4cfye3zbe1gaw\SystemAppData\wgs
+DiRT Rally 2.0, AppData\Local\Packages\CodemastersSoftwareCompan.DiRTRally2.0Windows_4cfye3zbe1gaw\SystemAppData\wgs\
+Disco Elysium, AppData\LocalLow\ZAUM Studio\Disco Elysium\SaveGames\
+Disgaea 4 Complete+, AppData\Roaming\Nippon Ichi Software, Inc\Disgaea 4 Complete+\
+Disgaea 5 Complete, AppData\Roaming\Nippon Ichi Software, Inc\Disgaea 5 Complete\
+Dishonored 2, Saved Games\Arkane Studios\dishonored2\base\
+Dishonored: Death of the Outsider, \Saved Games\Arkane Studios\Dishonored_DO\base\
+Distance, Documents\My Games\Distance
+Divide By Sheep, AppData\Roaming\Dividebysheep\Local Store\
+Divinity 2: Developer's Cut, AppData\Local\Divinity 2\Savegames\
+Divinity: Original Sin, Documents\Larian Studios\Divinity Original Sin\PlayerProfiles
+Divinity: Original Sin - Enhanced Edition, Documents\Larian Studios\Divinity Original Sin Enhanced Edition\
+Divinity: Original Sin 2, \Documents\Larian Studios\Divinity Original Sin 2\PlayerProfiles
+Divinity: Original Sin 2 - Definitive Edition, Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition\
+Doki Doki Literature Club!, AppData\Roaming\RenPy\DDLC-1454445547\
+Doki Doki Literature Club Plus!, \Appdata\LocalLow\Team Salvato\Doki Doki Literature Club Plus\
+Don't Starve, Documents/Klei/DoNotStarve/
+Don't Starve Together, \Documents\Klei\DoNotStarveTogether\
+DOOM (2016), Saved Games\id Software\DOOM\base\
+Doom 3, Saved Games\id Software\DOOM 3\base\
+Doom 3: BFG Edition, Saved Games\id Software\DOOM 3 BFG\base\
+Doom 64, AppData\Local\Packages\BethesdaSoftworks.Doom641997_3275kfvn8vcwc\SystemAppData\wgs\
+Doom 64, \Saved Games\Nightdive Studios\DOOM 64\
+Doom Classic, Saved Games\id Software\DOOM Classic
+Doom Classic, AppData\Local\Packages\BethesdaSoftworks.DoomClassic_3275kfvn8vcwc\SystemAppData\wgs
+Doom Eternal, Saved Games\id Software\DOOMEternal\base
+Doom Eternal, AppData\Local\Packages\BethesdaSoftworks.DOOMEternal-PC_3275kfvn8vcwc\SystemAppData\wgs\
+Doom 2 Classic, Saved Games\id Software\DOOM 2
+Door Kickers, Documents\KillHouseGames\DoorKickers\
+Door Kickers: Action Squad, KillHouseGames\ActionSquad\
+Dragon Age: Origins, Documents\BioWare\Dragon Age\
+Dragon Age 2, Documents\BioWare\Dragon Age 2\
+Dragon Age: Inquisition, Documents\BioWare\Dragon Age Inquisition\Save\
+Dragon Ball FighterZ, AppData\Local\DBFighterZ\Saved\SaveGames\ 
+Dragon Quest Builders 2, Documents\My Games\DRAGON QUEST BUILDERS II\
+Dragon Quest Heroes, Documents\SQUARE ENIX\DRAGON QUEST HEROES\
+Dragon Quest Heroes 2, Documents\SQUARE ENIX\DRAGON QUEST HEROES II\
+Dragon Quest XI, Documents\My Games\DRAGON QUEST XI\Saved\
+Dragon Quest XI S - Definitive Edition, Saved Games\DRAGON QUEST XI S\
+Dragon Quest XI S - Definitive Edition, Packages\39EA002F.DQXISWW_n746a19ndrrjg\SystemAppData\wgs\
+Dragon's Dogma: Dark Arisen, AppData\Local\GOG.com\Galaxy\Applications\49987265717041704\Storage\Shared\Files\
+Driver: San Francisco, Documents\Ubisoft\Driver San Francisco\
+Driver: Parallel Lines, Documents\My Games\Driver Parallel Lines
+DuckTales: Remastered, AppData\Roaming\Wayforward Technologies\DuckTales\
+Duke Nukem 3D: 20th Anniversary World Tour, AppData\Local\Gearbox\DukeNukem\
+Dungeons & Dragons: Dark Alliance, AppData\Local\CotH\Saved\
+Dungeons of Dredmor, Documents\Gaslamp Games\Dungeons of Dredmor\
+Dust: An Elysian Tail, Documents\SavedGames\DustAET\
+Dustforce, AppData\Roaming\Dustforce\
+Dying Light, Documents\DyingLight\out\
+Dynasty Warriors 9, Documents\KoeiTecmo\Dynasty Warriors 9 for Steam\
+Earth Defense Force 4.1: The Shadow of New Despair, Documents\My Games\EDF4.1\
+Earth Defense Force 5, Documents\My Games\EDF5\
+Eastward, AppData\Roaming\Pixpil\Eastward\
+Eets Munchies, Documents\Klei\Eets2\
+Element TD 2, AppData\LocalLow\Element Studios\Element TD 2\
+ELEX, Saved Games\ELEX\
+Emily is Away <3, \AppData\LocalLow\KyleSeeley\Facenook - Welcome to Facenook
+Endless Legend, Documents\Endless Legend\
+Enter the Gungeon, AppData\LocalLow\Dodge Roll\Enter the Gungeon\
+Epic Battle Fantasy 3, AppData\Roaming\EpicBattleFantasy3\Local Store\#SharedObjects\
+Escape Goat, Documents\Escape Goat\
+Escape Goat 2, Documents\Escape Goat 2\
+Eufloria HD, Documents\EufloriaHD\
+Euro Truck Simulator, Documents\Euro Truck Simulator\save\
+Euro Truck Simulator 2, Documents\Euro Truck Simulator 2\profiles\
+Europa Universalis IV, Documents\Paradox Interactive\Europa Universalis IV\
+Everhood, AppData\LocalLow\Foreign Gnomes\Everhood
+Everspace, AppData\Local\RSG\Saved\SaveGames
+Everspace, AppData\Local\Packages\ROCKFISHGames.EVERSPACE_wm11qtfe9fmzj\SystemAppData\wgs\
+Everspace 2, AppData\Local\ES2\Saved\SaveGames
+Everbody's Gone to the Rapture, Saved Games\Rapture\
+Everything, AppData\LocalLow\David OReilly\Everything\Save Data\
+Evil Genius 2: World Domination, Evil Genius 2\PC_ProfileSaves
+Evoland, AppData\Roaming\com.shirogames.evoland\Local Store\#SharedObjects\
+Exapunks, Documents\My Games\EXAPUNKS\
+Exit the Gungeon, AppData\LocalLow\Dodge Roll\Exit the Gungeon
+F.E.A.R., Documents\Monolith Productions\FEAR\Save\Profile000\SinglePlayer
+F.E.A.R., Documents\TimeGate Studios\FEARXP\Save\Profile000\SinglePlayer
+F.E.A.R., Documents\TimeGate Studios\FEARXP2\Save\Profile000\SinglePlayer
+F.E.A.R. 2: Project Origin, Documents\WBGames\FEAR2\
+F.I.S.T.: Forged In Shadow Torch, AppData\Local\ZingangGame\Saved\SaveGames\
+Fable Anniversary, Documents\My Games\FableHD\saves\
+Fable 3, Saved Games\Lionhead Studios\Fable 3\
+Factorio, AppData\Roaming\Factorio\saves\
+Fallout 3, Documents\My Games\Fallout3\Saves\
+Fallout: New Vegas, \Documents\My Games\FalloutNV\Saves
+Fallout 4, Documents\My Games\Fallout4\Saves\
+Fallout Shelter, AppData\Local\FalloutShelter\
+Far Cry 2, Documents\My Games\Far Cry 2\Saved Games\
+Farming Simulator 22, Documents\My Games\FarmingSimulator2022\
+Farming Simulator 19, Documents\My Games\FarmingSimulator2019\
+Farming Simulator 17, Documents\My Games\FarmingSimulator2017\
+Fe, AppData\LocalLow\Zoink Games\Fe\
+Fez, AppData\Roaming\FEZ\
+Final Fantasy, Documents\My Games\FINAL FANTASY PR\
+Final Fantasy 3 (3D Remake), AppData\Local\FF3_Win32\
+Final Fantasy IV, Documents\My Games\FINAL FANTASY IV PR\
+Final Fantasy IV (3D Remake), AppData\Local\FF4
+Final Fantasy IX, AppData\LocalLow\SquareEnix\FINAL FANTASY IX\
+Final Fantasy V, Documents\My Games\FINAL FANTASY V PR\
+Final Fantasy VII, Documents\Square Enix\FINAL FANTASY VII Steam\
+Final Fantasy VIII, Documents\Square Enix\FINAL FANTASY VIII Steam
+Final Fantasy VIII Remastered, Documents\My Games\FINAL FANTASY VIII Remastered\
+Final Fantasy X/X-2 HD Remaster, Documents\SQUARE ENIX\FINAL FANTASY X&X-2 HD Remaster\
+Final Fantasy X/X-2 HD Remaster, AppData\Local\Packages\39EA002F.FFXX-2HDRemaster_n746a19ndrrjg\SystemAppData\wgs\
+Final Fantasy XII: The Zodiac Age, Documents\My Games\FINAL FANTASY XII THE ZODIAC AGE\
+Final Fantasy XII: The Zodiac Age, Documents\My Games\MS-Store FINAL FANTASY XII THE ZODIAC AGE\
+Final Fantasy XIII, AppData\Local\SquareEnix\FinalFantasyXIII\save\
+Final Fantasy XIII-2, AppData\Local\SquareEnix\FinalFantasyXIII-2\
+Final Fantasy XV, AppData\Local\Packages\39EA002F.FINALFANTASYXVforPC_n746a19ndrrjg\SystemAppData\wgs
+Final Fantaxy XV, Documents\My Games\FINAL FANTASY XV\
+Final Fantasy XV Pocket Edition, AppData\Local\Packages\39EA002F.FINALFANTASY15POCKETEDITION_n746a19ndrrjg\SystemAppData\wgs
+Finding Paradise, AppData\Roaming\Finding Paradise - Freebird Games\
+Firewatch, AppData\LocalLow\CampoSanto\Firewatch\saves\
+Five Nights at Freddy's, AppData\Roaming\MMFApplications\freddy\
+Five Nights at Freddy's 2, AppData\Roaming\MMFApplications\freddy2\
+Five Nights at Freddy's 3, AppData\Roaming\MMFApplications\freddy3\
+FlatOut: Ultimate Carnage, AppData\Local\FlatOut Ultimate Carnage\Savegame\
+Flinthook, Documents\Tribute Games\Flinthook\
+Flower, Documents\Flower\
+Flynn: Son of Crimson, AppData\Local\Packages\HumbleBundle.FlynnSonofCrimson_q2mcdwmzx4qja\LocalCache\Local\Flynn_Son_of_Crimson\Data
+Flywrench, AppData\Local\FlywrenchStudio\
+Football Manager 2020, Documents\Sports Interactive\Football Manager 2020\
+Football Manager 2020 Touch, Documents\Sports Interactive\Football Manager 2020 Touch\
+For the King, AppData\LocalLow\IronOak Games\FTK\
+Forager, AppData\Local\Forager
+Forager, AppData\Local\Packages\HumbleBundle.ForagerWin10_q2mcdwmzx4qja\LocalState
+Forza Horizon 3, AppData\Local\Packages\Microsoft.OpusPG_8wekyb3d8bbwe\SystemAppData\wgs\
+Forza Horizon 4, AppData\Local\Packages\Microsoft.SunriseBaseGame_8wekyb3d8bbwe\SystemAppData\wgs\
+Forza Horizon 5, AppData\Local\Packages\Microsoft.624F8B84B80_8wekyb3d8bbwe\SystemAppData\wgs\
+Frostpunk, AppData\Roaming\11bitstudios\Frostpunk\Default\saves\
+Frostpunk, AppData\Local\Packages\11bitstudios.Frostpunk_gwy9gn5q9j1y6\LocalState\saves\
+Full Mojo Rampage, Documents\Over the Top Games\Full Mojo Rampage\
+Full Metal Furies, Documents\Cellar Door Games\Full Metal Furies\Saves\
+Galactic Civilizations II, Documents\My Games\GC2TwilightArnor\
+Galactic Civilizations III, Documents\My Games\GalCiv3\
+Game of Thrones, Documents\Game of Thrones\UnrealEngine3\Binaries\SaveData\
+Game of Thrones: A Telltale Games Series, Documents\Telltale Games\Game of Thrones A Telltale Games Series\
+Garfield Kart, AppData\LocalLow\Anuman Interactive\Garfield Kart\
+Gato Roboto, AppData\Local\GatoRoboto_patch_1_1\
+Gauntlet Slayer Edition, AppData\Roaming\Arrowhead\Gauntlet\saves\
+Gears 5, AppData\Local\Packages\Microsoft.HalifaxBaseGame_8wekyb3d8bbwe\SystemAppData\
+Gears of War, AppData\Local\Microsoft\XLive\Content\E000002D9621B011\
+Gears of War 4, AppData\Local\Packages\Microsoft.SpartaUWP_8wekyb3d8bbwe
+Gears of War: Ultimate Edition, Packages\Microsoft.DeltaPC_8wekyb3d8bbwe\SystemAppData\wgs
+Gears Tactics, AppData\Local\Packages\Microsoft.GanderBaseGame_8wekyb3d8bbwe\SystemAppData\
+GemCraft: Chasing Shadows, AppData\Roaming\GCCS\Local Store\
+Generation Zero, Documents\Avalanche Studios\GenerationZero\Saves\
+Geometry Dash, AppData\Local\GeometryDash\
+Ghostbusters: The Video Game Remastered, Documents\GHOSTBUSTERS\
+Giana Sisters: Twisted Dreams, Documents\Giana Sisters - Twisted Dreams\
+Giana Sisters: Twisted Dreams - Rise of the Owlverlord, Documents\Giana Sisters - Rise of the Owlverlord\
+Gloomhaven, AppData\LocalLow\FlamingFowlStudios\Gloomhaven\GloomSaves\
+GNOG, AppData\LocalLow\KO_OP\GNOG\
+Going Medieval, AppData\LocalLow\Foxy Voxel\Going Medieval\
+Going Under, AppData\LocalLow\Aggro Crab\Going Under
+Goodbye Deponia, AppData\Local\Daedalic Entertainment\Deponia 3\
+Gothic 3, Documents\gothic3\
+Gothic 3: Forsaken Gods, Documents\Gothic3ForsakenGods\
+Granblue Fantasy: Versus, GBVS\Saved\SaveGames
+Grand Theft Auto 3, Documents\GTA3 User Files\
+Grand Theft Auto 3 - The Definitive Edition, Documents\Rockstar Games\GTA III Definitive Edition\Profiles
+Grand Theft Auto IV, AppData\Local\Rockstar Games\GTA IV\savegames\
+Grand Theft AUto IV, Documents\Rockstar Games\GTA IV\Profiles
+Grand Theft Auto Re: Liberty City Stories, Documents\GTA Liberty City Stories User Files\
+Grand Theft Auto V, Documents\Rockstar Games\GTA V\Profiles\
+Grand Theft Auto: San Andreas, Documents\GTA San Andreas User Files\
+Grand Theft Auto: San Andreas, AppData\Local\Packages\RockstarGames.GrandTheftAutoSanAndreas_3t068xe29zjvp\LocalState
+Grand Theft Auto: San Andreas - The Definitive Edition, Documents\Rockstar Games\GTA San Andreas Definitive Edition\Profiles\
+Grand Theft Auto: Vice City, Documents\GTA Vice City User Files\
+Grand Theft Auto: Vice City - The Definitive Edition, Documents\Rockstar Games\GTA Vice City Definitive Edition\Profiles\
+Grandia HD Remaster, AppData\Roaming\GRANDIA1\Saves\
+Gratutious Space Battles, Documents\My Games\GratuitousSpaceBattles\
+Graven, AppData\Local\Praest\Saved\SaveGames\
+Graveyard Keeper, AppData\LocalLow\Lazy Bear Games\Graveyard Keeper
+Greedfall, Documents\GreedFall\
+Grim Dawn, Documents\My Games\Grim Dawn\save\
+Grim Fandango Remastered, AppData\Roaming\Doublefine\GrimFandango\
+GRIP: Combat Racing, AppData\Local\Grip\Saved\
+GRIS, AppData\LocalLow\nomada studio\GRIS\
+Grow Home, AppData\Local\GrowHome\
+Guacamelee!, Documents\Guacamelee\
+Guacamelee! 2, Documents\Guacamelee2\
+Guild of Dungeoneering, AppData\Roaming\dungeoneering\Local Store\
+Guilty Gear Strive, AppData\Local\GGST\Saved\SaveGames\
+Guilty Gear XX Accent Core Plus R, Documents\ARC SYSTEM WORKS\GGXXAC\
+Hack 'n' Slash, Documents\Hack ‘n’ Slash\
+Hacknet, Documents\My Games\Hacknet\Accounts\
+Hades, Documents\Saved Games\Hades\
+Halo 2, AppData\Local\Microsoft\Halo 2\Saved Games\
+Halo: The Master Chief Collection, AppData\Local\Packages\Microsoft.Chelan_8wekyb3d8bbwe\SystemAppData\wgs\
+Halo 5: Forge, AppData\Local\Packages\Microsoft.Halo5Forge_8wekyb3d8bbwe\LocalState
+Hand of Fate, AppData\LocalLow\Defiant Development\Hand of Fate\
+Hand of Fate 2, AppData\LocalLow\Defiant Development\Hand of Fate 2\
+Harry Potter and the Chamber of Secrets, Documents\Harry Potter II\
+Harry Potter and the Deathly Hallows Part 1, AppData\Local\Electronic Arts\Harry Potter and the Deathly Hallows (TM) – Part 1\
+Harry Potter and the Deathly Hallows Part 2, AppData\Local\Electronic Arts\Harry Potter and the Deathly Hallows (TM) – Part 2\
+Harry Potter and the Goblet of Fire, AppData\Local\Electronic Arts\Harry Potter and the Goblet of Fire\
+Harry Potter and the Half-Blood Prince, AppData\Local\Electronic Arts\Harry Potter and the Half Blood Prince\HPHBP0\
+Harry Potter and the Order of the Phoenix, AppData\Local\Electronic Arts\Harry Potter and the Order of the Phoenix\HPOOTP\
+Harry Potter and the Philosopher's Stone, Documents\Harry Potter\
+Harry Potter and the Prisoner of Azkaban, Documents\Harry Potter™ and the Prisoner of Azkaban\
+Harry Potter: Quidditch World Cup, Documents\EA Games Saves\Harry Potter - Quidditch WC\
+Hatoful Boyfriend, AppData\LocalLow\Mediatonic\HatofulBoyfriend\
+Haunt the House: Terrortown, AppData\Roaming\air.com.sfbgames.HauntTheHouseTerrortown\Local Store
+Haven, AppData\LocalLow\TheGameBakers\Haven\
+Headlander, AppData\Roaming\Doublefine\Headlander\
+Heave Ho, AppData\LocalLow\Le Cartel Studio\HeaveHo\Save\
+Heavy Rain, Saved Games\HeavyRainNS\
+Heavy Rain, Saved Games\HeavyRain\
+Hellblade: Senua's Sacrifice, AppData\Local\HellbladeGame\Saved\SaveGames\
+Hellblade: Senua's Sacrifice VR, AppData\Local\HellbladeGame\Saved\SaveGames_VR\
+Helldivers, AppData\Roaming\Arrowhead\Helldivers\saves
+Hello Neighbor, AppData\Local\HelloNeighbor\Saved\
+Her Story, \AppData\LocalLow\Sam Barlow\HerStory\
+Hero Siege, AppData\Local\Hero_Siege
+Heroes of Might & Magic III - HD Edition, Documents\Ubisoft\Heroes of Might & Magic III - HD Edition\
+Heroes of Might and Magic V, Documents\My Games\Heroes of Might and Magic V\Profiles\
+Heroes of Might and Magic V - Tribes of the East, Documents\My Games\Heroes of Might and Magic V - Tribes of the East\Profiles\
+Hidden Folks, AppData\LocalLow\Adriaan de Jongh\Hidden Folks\
+Hill Climb Racing, AppData\Local\Packages\Fingersoft.HillClimbRacing_r6rtpscs7gwyg
+Hill Climb Racing 2, AppData\Local\Packages\Fingersoft.HillClimbRacing2_r6rtpscs7gwyg\
+Hitman Trilogy, AppData\Roaming\Io Interactive\Epic\
+Hitman GO, AppData\LocalLow\Square Enix Ltd_\Hitman GO\
+Hitman GO, AppData\Local\Packages\39C668CD.HitmanGO_r7bfsmp40f67j\LocalState\
+Hitman: Absolution, AppData\Roaming\IO Interactive\HM5\
+Hitman: Blood Money, Documents\Hitman Blood Money\
+Hiveswap: Act 1, AppData\LocalLow\What Pumpkin\Hiveswap Episode 1\
+Hiveswap: Act 2, AppData\LocalLow\What Pumpkin\Hiveswap Episode 2\
+Hob, Documents\My Games\Runic Games\Hob\
+Hollow Knight, AppData\LocalLow\Team Cherry\Hollow Knight\
+Horizon Chase Turbo, AppData\LocalLow\Aquiris\HorizonChaseTurbo\
+Horizon Zero Dawn, Documents\Horizon Zero Dawn\Saved Game\
+Hot Wheels Unleashed, AppData\Local\hotwheels\Saved\
+Hotline Miami, Documents\My Games\HotlineMiami\
+Hotline Miami 2: Wrong Number, Documents\My Games\HotlineMiami2\
+House Flipper, AppData\LocalLow\Empyrean\House Flipper Game\
+House Flipper VR, AppData\LocalLow\Frozen District\HouseFlipper VR\
+Human: Fall Flat, AppData\Local\Packages\CurveDigital.HumanFallFlat_1ezqdnbhnc70m\SystemAppData\wgs
+Humankind, Documents\Humankind\Save Files
+Hyperdimension Neptunia Re;Birth 1, Documents\My Games\Idea Factory International, Inc\Hyperdimension Neptunia Re;Birth1\
+Hypnospace Outlaw, Tendershoot\HypnOS\
+I Expect You To Die, appdata\locallow\Schell Games\IEYTD\
+Imposter Factory, AppData\Roaming\freebirdgames\impostorfactory\
+Indivisible, Documents\Indivisible\Save Data\
+Infectonator 3: Apocalypse, AppData\LocalLow\Toge Productions\Infectonator Apocalypse\Data
+Infinifactory, Documents\My Games\Infinifactory\
+Inside, AppData\Roaming\Playdead\Inside\
+Insurgency: Sandstorm, AppData\Local\Insurgency\Saved\
+Into the Breach, Documents\My Games\Into The Breach\
+Invisible Inc., Documents\Klei\InvisibleInc\saves\
+Ion Fury, AppData\Roaming\Ion Fury
+It Takes Two, AppData\Local\ItTakesTwo\
+Ittle Dew, AppData\LocalLow\Ludosity\IttleDew\IttleDew
+James Cameron's Avatar: The Game, Documents\My Games\AVATAR\Saved Games\
+Jamestown+, Saved Games\JamestownPlus
+Jamestown: Legend of the Lost Colony, Documents\Saved Games\Jamestown\
+Jazzpunk, AppData\LocalLow\Necrophone Games\Jazzpunk\
+Job Simulator, AppData\LocalLow\Owlchemy Labs\Job Simulator\User
+John Wick Chronicles, AppData\Local\wick\Saved\
+John Wick Hex, AppData\LocalLow\Bithell Games\John Wick Hex\
+Journey, AppData\Local\Annapurna Interactive\Journey\
+Jurassic World Evolution, Saved Games\Frontier Developments\Jurassic World Evolution
+Just Cause, \Documents\JustCause\Saves\JCSaves\
+Just Cause 3, Documents\Square Enix\Just Cause 3\Saves\
+Katamari Damacy Reroll, AppData\Local\BANDAI NAMCO Entertainment\kataramidamacy\Saved\SaveGames
+Katamari Damacy Reroll, AppData\Local\Packages\NAMCOBANDAIGamesInc.KatamariDamacyRerollWindows_gdy2aq6ez762w\SystemAppData
+Katana Zero, AppData\Local\Katana_ZERO\
+Katana Zero, AppData\Local\Packages\DevolverDigital.KatanaZero_6kzv4j18v0c96\LocalCache\Local\Katana_ZERO\
+Kathy Rain: Director's Cut, AppData\LocalLow\Clifftop Games\Kathy Rain_ Director's Cut\
+Kenshi, AppData\Local\Kenshi\save
+Kentucky Route Zero, Documents\KentuckyRouteZero\
+Kingdom Hearts HD 1.5 + 2.5 ReMIX, Documents\KINGDOM HEARTS HD 1.5+2.5 ReMIX\
+Kingdom Hearts HD 2.8 Final Chapter Prologue, Documents\KINGDOM HEARTS HD 2.8 Final Chapter Prologue\
+Kingdom Hearts III, Documents\KINGDOM HEARTS III\
+Kingdom Hearts Melody of Memory, Documents\KINGDOM HEARTS Melody of Memory\
+Kingdom Rush, AppData\Roaming\kingdom_rush\
+Kingdom Rush: Frontiers, AppData\Roaming\kingdom_rush_frontiers\
+Kingdom Rush: Vengeance, AppData\Local\Kingdom Rush Vengeance
+Kingdom: New Lands, AppData\LocalLow\noio\Kingdom\
+Kingdom: Two Crowns, AppData\LocalLow\noio\KingdomTwoCrowns\Release
+Kingdoms of Amalur: Reckoning, Documents\My Games\Reckoning\
+Knightin'+, AppData\Local\Knightin\User Data\Default\IndexedDB\chrome-extension_hjnbfbfljdniledkaamgmdnjfdijmofi_0.indexeddb.leveldb\
+Knights and Bikes, AppData\LocalLow\Foam Sword\Knights and Bikes
+Knights of Pen and Paper 2, AppData\LocalLow\Kyy Games\Knights of Pen and Paper 2\
+Knights of Pen and Paper 2: Free Edition, AppData\LocalLow\Kyy Games\Knights of Pen and Paper 2 F2P\
+Kung Fury: Street Rage, AppData\LocalLow\Hello There\Kung Fury\
+L.A. Noire, Documents\Rockstar Games\L.A. Noire\Profiles
+La-Mulana, Documents\NIGORO\La-Mulana\saves\
+La-Mulana 2, AppData\LocalLow\NIGORO\LaMulana2\
+Lara Croft GO, AppData\LocalLow\Square Enix Ltd_\Lara Croft GO\
+Last Epoch, AppData\LocalLow\Eleventh Hour Games\Last Epoch\Saves
+Layers of Fear, AppData\LocalLow\Bloober Team\Layers of Fear\
+Layers of Fear 2, AppData\Local\LOF2\Saved\SaveGames\
+Legacy of Kain: Blood Omen 2, Documents\Blood Omen 2\
+Legacy of Kain: Defiance, Documents\Legacy of Kain - Defiance\
+Legacy of Kain: Soul Reaver 2, Documents\Soul Reaver 2\
+Legend of Grimrock, Documents\Almost Human\Legend of Grimrock\
+Legend of Grimrock 2, Documents\Almost Human\Legend of Grimrock 2\
+Legend of Kay Anniversary, Saved Games\legendofkay.exe\
+Lego Batman: The Videogame, AppData\Local\Warner Bros. Interactive Entertainment\LEGO Batman\Saved Games
+Lego Batman 2: DC Super Heroes, AppData\Roaming\Warner Bros. Interactive Entertainment\LEGO Batman 2\
+Lego Batman 3: Beyond Gotham, AppData\Roaming\Warner Bros. Interactive Entertainment\LEGO Batman 3 Beyond Gotham\
+Lego DC Super-Villains, AppData\Roaming\Warner Bros. Interactive Entertainment\LEGO DC Super-villains\
+Lego Harry Potter: Years 1-4, AppData\Roaming\WB Games\LEGO® Harry Potter™\SavedGames\
+Lego Harry Potter: Years 5-7, AppData\Roaming\WB Games\LEGO Harry Potter 2\SavedGames\
+Lego Indiana Jones 2: The Adventure Continues, AppData\Roaming\LucasArts\LEGO® Indiana Jones™ 2\SavedGames\
+Lego Indiana Jones: The Original Adventures, AppData\Local\LucasArts\LEGOIndianaJones\SavedGames\
+Lego Marvel Super Heroes 2, AppData\Roaming\Warner Bros. Interactive Entertainment\LEGO Marvel Super Heroes 2\SAVEDGAMES\
+Lego Pirates of the Caribbean: The Video Game, AppData\Roaming\DisneyInteractiveStudios\LEGOPirates\SavedGames\
+Lego Racers 2, Documents\games\LEGO Racers 2\Saved Games\
+Lego Star Wars II: The Original Trilogy, AppData\Local\LucasArts\LEGO Star Wars II\
+Lego Star Wars III: The Clone Wars, AppData\Roaming\Lucasarts\LEGOStarWarsIII\
+Lego Star Wars: The Complete Saga, AppData\Local\LucasArts\LEGO Star Wars - The Complete Saga\SavedGames\
+Lego The Incredibles, AppData\Roaming\Warner Bros. Interactive Entertainment\LEGO The Incredibles\SAVEDGAMES\
+Lego Worlds, AppData\Roaming\Warner Bros. Interactive Entertainment\LEGOWorlds\SavedGames\
+Life Is Strange, Documents\My Games\Life Is Strange\Saves\
+Life Is Strange 2, AppData\Local\Dontnod\
+Life Is Strange: Before the Storm, AppData\LocalLow\Square Enix\Life is Strange_ Before the Storm\Saves
+Life Is Strange: True Colors, Documents\My Games\LifeIsStrange3\
+Lightmatter, AppData\LocalLow\Tunnel Vision Games\Lightmatter\Lightmatter_Data
+Little Misfortune, AppData\LocalLow\Killmonday Games\Little Misfortune
+Little Nightmares II, AppData\Local\Helios\Saved\SaveGames\
+Littlewood, AppData\LocalLow\SmashGames\Littlewood
+Long Live the Queen, AppData\Roaming\RenPy\LongLiveTheQueen\
+Loop Hero, AppData\Local\Loop_Hero\
+Lucius, Documents\Lucius\saves\
+Lucius Demake, AppData\LocalLow\Shiver Games\Lucius Demake\
+Lucius II, AppData\LocalLow\Shiver Games\Lucius II\
+Lucius III, AppData\LocalLow\Shiver Games\Lucius III\
+Luck Be a Landlord, AppData\Roaming\Godot\app_userdata\Luck be a Landlord\
+LUFTRAUSERS, AppData\Roaming\.LUFTRAUSERS\
+Lumines Remastered, Packages\EnhanceIncorporated.SHAKECoreGame_63vy8jfbpt4dt\SystemAppData\wgs\
+Machinarium, AppData\Roaming\Amanita-Design.Machinarium\
+Mad Games Tycoon, AppData\LocalLow\Eggcode\Mad Games Tycoon\
+Madness: Project Nexus, AppData\LocalLow\Gibbing Tree\Madness Project Nexus\
+Mafia II: Definitive Edition, Documents\My Games\Mafia II Definitive Edition\
+Mafia III, AppData\Local\2K Games\Mafia III\Data\
+Mafia: Definitive Edition, Documents\My Games\Mafia Definitive Edition\Data\
+Magicka 2, AppData\Roaming\ParadoxInteractive\Magicka2\
+Maid of Sker, AppData\LocalLow\Wales Interactive\Maid of Sker\
+Manifold Garden, AppData\LocalLow\William Chyr Studio\Manifold Garden\Saves
+Mantis Burn Racing, AppData\Local\VFRacer\
+Marble It Up!, AppData\LocalLow\Bad Habit\MarbleItUp\
+Mark of the Ninja, Documents\Klei\Ninja\users\
+Marvel's Guardians of the Galaxy: The Telltale Series, Documents\Telltale Games\Guardians of the Galaxy\
+Mass Effect, Documents\Bioware\Mass Effect\Save\
+Mass Effect 2, Documents\BioWare\Mass Effect 2\
+Mass Effect 3, Documents\BioWare\Mass Effect 3\
+Mass Effect Legendary Edition, Documents\BioWare\Mass Effect Legendary Edition\
+Mass Effect: Andromeda, Documents\BioWare\Mass Effect Andromeda\Save\
+Max Payne, Documents\Max Payne Savegames\
+Max Payne 2: The Fall of Max Payne, Documents\Max Payne 2 Savegames\
+Max Payne 3, Documents\Rockstar Games\Max Payne 3\Profiles\
+Medal of Honor, Documents\EA Games\Medal of Honor\
+Medal of Honor: Above and Beyond, AppData\Local\Mohab\Saved\Saves\
+Medal of Honor: Airborne, Documents\EA Games\Medal of Honor Airborne(tm)\Saved\
+Mega Man Legacy Collection, AppData\Roaming\MegaMan\
+Mega Man Legacy Collection 2, AppData\Roaming\MegaMan2\
+Mega Man Maker, AppData\Local\MegaMaker\Levels\
+Mercenary Kings, Documents\Tribute Games\MercenaryKings\
+Metal Gear Rising: Revengeance, Documents\MGR\SaveData
+Metal Slug, AppData\Local\mslug1\
+Metal Slug 3, AppData\Local\mslug3\
+Metal Slug X, AppData\Local\mslugx\
+Metro 2033, Documents\4A Games\Metro 2033\
+Metro 2033, AppData\Local\Packages\DeepSilver.Metro2033Redux_hmv7qcest37me\SystemAppData\wgs\
+Metro Exodus, Saved Games\metro exodus\
+Metro Exodus, Packages\DeepSilver.ProjectWindfall_hmv7qcest37me\SystemAppData\wgs\
+Metro: Last Light, Documents\4A Games\Metro LL\
+Metro: Last Light Redux, Documents\4A Games\Metro Last Light\
+Metro: Last Light Redux, AppData\Local\Packages\DeepSilver.MetroLastLightRedux_hmv7qcest37me\SystemAppData\wgs\
+Middle-earth: Shadow of War, AppData\Local\WB Games\Shadow of War\
+Middle-earth: Shadow of War, Packages\6DA520A3.1673586F56C6C_ykvmsk3s73586\SystemAppData\wgs\
+Might & Magic Heroes VI, Documents\Might & Magic Heroes VI\
+Minecraft, AppData\Roaming\.minecraft\saves\
+Minecraft Dungeons, Saved Games\Mojang Studios\Dungeons
+Minecraft Dungeons, AppData\Local\Packages\Microsoft.Lovika_8wekyb3d8bbwe\LocalCache\Local\Dungeons\
+Minecraft: Bedrock Edition, AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds\
+Minecraft: Story Mode - A Telltale Games Series, Documents\Telltale Games\Minecraft Story Mode\
+Minecraft: Story Mode - Season Two, Documents\Telltale Games\Minecraft Story Mode - Season Two\
+Minit, AppData\Local\minit\minitSaves\
+Minit, AppData\Local\minitGMS2\minitSaves\
+Minit Fun Racer, AppData\Local\minit_racer\
+Mirror's Edge, Documents\EA Games\Mirror's Edge\TdGame\Savefiles\
+Mirror's Edge Catalyst, Documents\Mirrors Edge Catalyst\settings\PROF_SAVE
+Molek-Syntez, Documents\My Games\MOLEK-SYNTEZ\
+Momodora: Reverie under the Moonlight, AppData\Local\MomodoraRUtM\
+Momodora: Reverie under the Moonlight, Packages\53E4EFE6.Momodora_153j13zhvfy8w\LocalState\
+Monolith, AppData\Roaming\Monolith
+Monster Sanctuary, Documents\My Games\Monster Sanctuary\
+Moonlighter, AppData\LocalLow\11BitStudios\Moonlighter\
+Moonlighter, AppData\Local\Packages\11bitstudios.20925BA3921E0_gwy9gn5q9j1y6\SystemAppData\wgs\
+Mortal Shell, Documents\My Games\MortalShell\Dungeonhaven\Saved\
+Moss, AppData\Local\MossGame\Saved\SaveGames\
+Mothergunship, AppData\Local\TowerOfGuns2\Saved\SaveGames\
+MotoGP 20, AppData\Local\motogp20\Saved\SaveGames
+MotoGP 19, AppData\Local\motogp19\Saved\SaveGames\
+MotoGP 18, AppData\Local\motogp18\Saved\SaveGames\
+Mount & Blade, Documents\Mount&Blade Savegames\
+Mount & Blade II: Bannerlord, Documents\Mount and Blade II Bannerlord\Game Saves\
+Mount & Blade: Warband, Documents\Mount&Blade Warband Savegames\
+Mount & Blade: With Fire & Sword, Documents\Mount&Blade With Fire and Sword\Savegames\
+Murder by Numbers, AppData\LocalLow\Mediatonic\Murder By Numbers\
+Murder Miners, Saved Games\Murder Miners\MurderMinersSaveData\
+Muse Dash, AppData\Local\Steam\MuseDash\
+Mutant Year Zero: Road to Eden, AppData\Local\ZoneUE4\Saved\SaveGames\
+My Hero: One's Justice, AppData\Local\BANDAI NAMCO Entertainment\My Hero Ones Justice\Saved\SaveGames\
+My Hero: One's Justice 2, AppData\Local\BANDAI NAMCO Entertainment\My Hero Ones Justice 2\Saved\
+Myst (2021), AppData\Local\Myst\Saved\Config\WindowsNoEditor\
+Myst (2021), AppData\Local\Packages\CyanWorldsInc.Myst_9msjs5e8t6mxt\LocalCache\Local\Myst\Saved\Config\WinGDK\
+Myst V: End of Ages, Documents\My Games\Myst V End of Ages\sav\
+Myst V: End of Ages, AppData\Local\Myst V End of Ages\sav\
+N++, Documents\Metanet\N++\
+Naruto to Boruto: Shinobi Striker, Saved Games\NARUTO TO BORUTO SHINOBI STRIKER\
+Necrobarista, AppData\LocalLow\Route59\Necrobarista\GameSaves\
+Necropolis, AppData\LocalLow\Harebrained Schemes\Necropolis\
+Need for Speed Heat, Documents\Need for Speed Heat\SaveGame\savegame
+Need for Speed Payback, Documents\Need For Speed(TM) Payback\
+Need for Speed Rivals, Documents\Ghost Games\Need for Speed(TM) Rivals\settings\
+Need for Speed: Carbon, Documents\NFS Carbon\
+Need for Speed: Hot Pursuit, Documents\Criterion Games\Need for Speed(TM) Hot Pursuit\Save\
+Need for Speed: Hot Pursuit 2, Documents\EA Games\Need For Speed Hot Pursuit 2\
+Need for Speed: Hot Pursuit Remastered, Documents\Criterion Games\Need for Speed(TM) Hot Pursuit Remastered\Save\
+Need for Speed: Most Wanted, Documents\NFS Most Wanted
+Need for Speed: Most Wanted (2012), Documents\Criterion Games\Need For Speed(TM) Most Wanted\Save\
+Need for Speed: ProStreet, Documents\NFS ProStreet\
+Need for Speed: Shift, Documents\NFS SHIFT\
+Need for Speed: The Run, Documents\NFSTR\settings\
+Need for Speed: Undercover, Documents\NFS Undercover\
+Need for Speed: Underground 2, AppData\Local\NFS Underground 2\
+Neighbours back From Hell, AppData\Roaming\Neighbours back From Hell\
+Neighbours from Hell, Documents\JoWooD\NFH1\
+Neighbours from Hell, Documents\JoWooD\Neighbours From Hell 1\
+Neighbours from Hell 2: On Vacation, Documents\JoWooD\NFH2\
+NEKOPALIVE, AppData\Local\Nekopara\Saved\Saved\SaveGames\
+NEKOPARA Extra, AppData\Roaming\NEKO WORKs\nekopara_extra\
+NEKOPARA Extra, Documents\NEKO WORKs\nekopara_extra
+NEKOPARA Vol. 0, AppData\Roaming\NEKO WORKs\nekopara_vo0
+NEKOPARA Vol. 0, Documents\NEKO WORKs\nekopara_vol0
+NEKOPARA Vol. 1, NEKO WORKs\nekopara_vol
+NEKOPARA Vol. 1, Documents\NEKO WORKs\nekopara_vol1
+NEKOPARA Vol. 2, AppData\Roaming\NekoWorks\nekopara_vol2
+NEKOPARA Vol. 2, Documents\NEKO WORKs\nekopara_vol2
+NEKOPARA Vol. 3, AppData\Roaming\NEKO WORKs\nekopara3
+NEKOPARA Vol. 3, Documents\NEKO WORKs\nekopara_vol3
+NeuroVoider, AppData\LocalLow\Flying Oak Games\NeuroVoider\
+Neverending Nightmares, Saved Games\Neverending Nightmares
+Neverwinter Nights 2, Documents\Neverwinter Nights 2\saves\
+Neverwinter Nights: Enhanced Edition, Documents\Neverwinter Nights\saves\
+Nex Machina: Death Machine, AppData\Roaming\Nex Machina\
+NieR Replicant, Documents\My Games\NieR Replicant ver.1.22474487139\Steam\
+NieR: Automata, AppData\Local\Packages\39EA002F.NieRAutomataPC_n746a19ndrrjg\SystemAppData\wgs\
+NieR: Automata, Documents\My Games\NieR_Automata\
+Night in the Woods, AppData\LocalLow\Infinite Fall\Night in the Woods\
+Ninja Gaiden 3: Razor's Edge, Documents\KoeiTecmo\NINJAGAIDEN3RE\
+Ninja Gaiden Σ, Documents\KoeiTecmo\NINJAGAIDENSIGMA
+Ninja Gaiden Σ2, Documents\KoeiTecmo\NINJAGAIDENSIGMA2\
+Nioh: Complete Edition, Documents\KoeiTecmo\NIOH\Savedata\
+Nioh 2: The Complete Edition, Documents\KoeiTecmo\NIOH2\Savedata\
+Nitronic Rush, AppData\Local\digipen\nitronic_rush\
+No Man's Sky, AppData\Roaming\HelloGames\NMS\
+No Man's Sky, AppData\Local\Packages\HelloGames.NoMansSky_bs190hzg1sesy\SystemAppData\wgs
+No More Heroes, Saved Games\NMH\saves\
+No More Heroes 2: Desperate Struggle, Saved Games\NMH2\saves\
+Noita, AppData\LocalLow\Nolla_Games_Noita\
+Nova Drift, AppData\Local\Nova Drift\
+Nowhere Prophet, AppData\LocalLow\Sharkbomb Studios\Nowhere Prophet\
+Nuclear Throne, AppData\Local\nuclearthrone\
+Octodad: Dadliest Catch, Saved Games\Octodad Dadliest Catch\
+Octopath Traveler, Documents\My Games\Octopath_Traveler\
+Oddworld: Soulstorm, AppData\LocalLow\Oddworld Inhabitants Inc\Oddworld_ Soulstorm
+Oddworld: Stranger's Wrath, Documents\Oddworld\Stranger's Wrath\Save\
+Oddworld: Stranger's Wrath HD, Documents\Oddworld\Stranger's Wrath HD\Save\
+Oh...Sir! The Insult Simulator, Documents\OhSir\
+Oh...Sir! The Hollywood Roast, Documents\OhSirTheHollywoodRoast\
+OlliOlli, AppData\Roaming\olliolli\
+OlliOlli2: Welcome to Olliwood, AppData\Roaming\olliolli2\
+One Finger Death Punch, Documents\SavedGames\One Finger Death Punch\Game_Save\
+One Finger Death Punch 2, AppData\LocalLow\Silver Dollar Games\One Finger Death Punch 2
+One Piece: Pirate Warriors 3, Documents\BNE\One Piece Pirate Warriors 3\SAVEDATA\
+One Piece: Pirate Warriors 4, AppData\Local\BANDAI NAMCO Entertainment\One Piece Pirate Warriors 4\Saved\SaveGames\
+One Piece: Unlimited World Red Deluxe Edition, AppData\Local\BANDAI NAMCO Entertainment\OP Unlimited World Red
+One Piece: World Seeker, AppData\Local\BANDAI NAMCO Entertainment\ONE PIECE WORLD SEEKER\Saved\SaveGames\
+One Step From Eden, AppData\LocalLow\Ristacia LLC\One Step From Eden
+OneShot, AppData\Roaming\Oneshot\
+OpenRCT2, Documents\OpenRCT2\
+OpenRA, AppData\Roaming\OpenRA\Saves
+OpenTTD, Documents\OpenTTD\
+Opus Magnum, Documents\My Games\Opus Magnum\
+Orcs Must Die! 3, AppData\Local\Robot Entertainment\Orcs Must Die! 3\Saved\
+Ori and the Blind Forest, AppData\Local\Ori and the Blind Forest\
+Ori and the Blind Forest: Definitive Edition, AppData\Local\Ori and the Blind Forest DE\
+Ori and the Blind Forest: Definitive Edition, Packages\Microsoft.OriandtheBlindForestDefinitiveEdition_8wekyb3d8bbwe\SystemAppData\wgs\
+Ori and the Will of the Wisps, AppData\Local\Ori and the Will of The Wisps\
+Ori and the Will of the Wisps, Packages\Microsoft.Patagonia_8wekyb3d8bbwe\SystemAppData\wgs\
+Orwell, Documents\My Games\Orwell\
+Osmos, Documents\Osmos\
+Out There: Ω Edition, AppData\Local\MiClos Studio\OutThereOmegaEdition\
+Outer Wilds, AppData\LocalLow\Mobius Digital\Outer Wilds\
+Outlast, Documents\My Games\Outlast\OLGame\SaveData\
+Outlast 2, Documents\My Games\Outlast2\OLGame\SaveData\
+Overcooked!, AppData\LocalLow\Ghost Town Games\Overcooked\
+Overcooked! 2, AppData\LocalLow\Team17\Overcooked2\
+Overcooked! All You Can Eat, AppData\Local\Packages\Team17DigitalLimited.Overcooked2Win10_j5x4vj4y67jhc\SystemAppData\wgs
+Overcooked! All You Can Eat, AppData\LocalLow\Team17\Overcooked All You Can Eat\
+Overgrowth, Documents\Wolfire\
+OVERKILL's The Walking Dead, AppData\Local\OTWD\Saved\SaveGames\
+Overlord, Documents\Overlord\
+Overlord II, Documents\My Games\Overlord II\
+Overwatch (configs), Documents\Overwatch\Settings\
+Owlboy, Saved Games\Owlboy\Saves\
+Oxenfree, AppData\LocalLow\Night School Studio\Oxenfree\save\
+Oxygen Not Included, Documents\Klei\OxygenNotIncluded\save_files
+Pac-Man 256, AppData\LocalLow\Hipster Sprockets
+Pac-Man Championship Edition 2, AppData\Roaming\Pac-man CE2\
+Painkiller: Overdose, AppData\Local\Painkiller: Overdose\Saves
+Painkiller: Recurring Evil, AppData\Local\Painkiller Recurring Evil\Saves\
+Painkiller: Resurrection, AppData\Local\Painkiller Resurrection\Saves
+Panzer Dragoon (Remake), AppData\LocalLow\MegaPixel Studio SA\Panzer Dragoon_ Remake
+Papers Please, AppData\Roaming\3909\PapersPlease\
+Passpartout: The Starving Artist, AppData\LocalLow\Flamebait Games\Passpartout\save\
+Path of Exile (configs), Documents\My Games\Path of Exile\
+Pathfinder: Kingmaker, AppData\LocalLow\Owlcat Games\Pathfinder Kingmaker\Saved Games
+Payday 2, AppData\Local\PAYDAY 2\
+Payday: The Heist, AppData\Local\PAYDAY\
+Persona 5 Strikers, AppData\Roaming\SEGA\Steam\P5S\
+PewDiePie: Legend of the Brofist, AppData\LocalLow\Outerminds Inc_\PewDiePie\
+Phasmophobia, AppData\LocalLow\Kinetic Games\Phasmophobia\
+Pictopix, AppData\LocalLow\Tomlab Games\Pictopix\
+PixelJunk Monsters 2, AppData\LocalLow\Q Games Ltd\PixelJunk™ Monsters 2\
+PixelJunk Nom Nom Galaxy, AppData\Roaming\NomNomGalaxy\
+PixelJunk Shooter, AppData\Roaming\PJShooter\
+PixelJunk Shooter Ultimate, AppData\Roaming\PJShooterUltimate
+Planescape: Torment Enhanced Edition, Documents\Planescape Torment - Enhanced Edition\save\
+Playerunknown's Battlegrounds (configs), AppData\Local\TslGame\Saved\Config\WindowsNoEditor\
+Poly Bridge 2, Documents\Dry Cactus\Poly Bridge 2\SaveSlots
+Postal 4, AppData\Local\Postal4\Saved\SaveGames\
+Postal Redux, AppData\Local\PostalREDUX\
+Potion Craft, AppData\LocalLow\niceplay games\Potion Craft\Saves
+PowerWash Simulator, AppData\LocalLow\FuturLab\PowerWash Simulator\SaveData
+Prey (2017), Saved Games\Arkane Studios\Prey_MS\SaveGames\
+Prey (2017), Saved Games\Arkane Studios\Prey\SaveGames\
+Prey, Documents\My Games\PREY\base\
+Prey, Saved Games\HumanHeadStudios\Prey\
+Prince of Persia (2008), Documents\Prince of Persia\Save\
+Prison Architect, AppData\Local\Introversion\Prison Architect\
+Prison Simulator, AppData\LocalLow\Baked Games\Prison Simulator\Data
+Project CARS 2, Documents\Project Cars 2\savegame\
+Project CARS 3, AppData\Local\Slightly Mad Studios\Project CARS 3\savegame
+Prototype, Documents\Prototype\
+Prototype 2, Documents\Activision\Prototype 2\
+Psychonauts, AppData\Local\Psychonauts\Profiles\
+Psychonauts 2, AppData\Local\Psychonauts2\Saved\SaveGames\
+Psychonauts 2, AppData\Local\Packages\Microsoft.Psychonauts2_8wekyb3d8bbwe\SystemAppData\wgs\
+Psychonauts in the Rhombus of Ruin, AppData\Roaming\PsychonautsInTheRhombusOfRuin\Saved\SaveGames
+Puyo Puyo Tetris 2, AppData\Local\PuyoPuyoTetris2\
+Puzzle Quest: Galactrix, Documents\puzzle quest galactrix\
+Puzzle Quest: Challenge of the Warlords, Documents\Puzzle Quest\Saves
+Puzzle Quest 2, AppData\Local\namco\puzzle quest 2
+Pyre, Documents\Saved Games\Pyre\
+Q.U.B.E. 2, AppData\Local\QUBE\Saved\
+Quadrilateral Cowboy, AppData\Roaming\BlendoGames\Quadrilateral Cowboy\base\savegames\
+Quake, Saved Games\Nightdive Studios\Quake\
+Quantum Break, AppData\Local\QuantumBreak\
+Quantum Break, AppData\Local\Packages\Microsoft.QuantumBreak_8wekyb3d8bbwe\LocalState\LSAO\
+R-Type Final 2, Saved Games\RTypeFinal2\Saved\
+RAGE, Saved Games\id Software\Rage\base\savegame\
+RAGE 2, Saved Games\id Software\Rage 2\Saves\
+Rain on Your Parade, AppData\LocalLow\Unbound Creations\Rain on Your Parade\saves
+Rain on Your Parade, AppData\Local\Packages\UnboundCreations.RainonYourParade_8hzbqm23g39hj\SystemAppData\wgs\
+Raji: An Ancient Epic, AppData\Local\Raji\Saved\SaveGames
+Raji: An Ancient Epic, AppData\Local\Packages\SUPER.COM.499901B22ECB3_khac1bdnsjzc4\SystemAppData\wgs\
+Rambo: The Video Game, Saved Games\Reef Entertainment\Rambo The Video Game\
+Rayman Legends, Documents\Rayman Legends\
+Rayman Origins, Documents\My Games\Rayman Origins\Savegame\
+Re:ZERO -Starting Life in Another World- The Prophecy of the Throne, Documents\My Games\ReZERO-TPT\Saves\
+realMyst: Masterpiece Edition, AppData\LocalLow\Cyan Worlds\realMyst\
+Rebel Galaxy, Documents\My Games\Double Damage Games\RebelGalaxy\
+Rebel Galaxy Outlaw, Documents\My Games\Double Damage Games\RebelGalaxyOutlaw\
+Rebuild 3: Gangs of Deadsville, AppData\Roaming\com.sarahnorthway.rebuild3\Local Store\
+Record of Lodoss War: Deedlit in Wonder Labyrinth, AppData\Local\Deedlit_in_Wonder_Labyrinth\
+Red Dead Redemption 2, Documents\Rockstar Games\Red Dead Redemption 2\Profiles\
+Red Faction Guerrilla Re-Mars-tered, AppData\Local\GOG.com\Galaxy\Applications\51153410217180642\Storage\Shared\Files\autocloud\save\
+Red Faction: Armageddon, AppData\Local\GOG.com\Galaxy\Applications\51153456908161049\Storage\
+Red Faction: Guerrilla, Documents\My Games\Red Faction Guerrilla\Saves\
+Reigns, AppData\LocalLow\Nerial\Reigns\
+Reigns: Her Majesty, AppData\LocalLow\Nerial\Reigns_ Her Majesty\
+Relic Hunters Zero, AppData\Local\RelicHuntersZero
+Remnant: From the Ashes, AppData\Local\Remnant\Saved\SaveGames
+Remnant: From the Ashes, AppData\Local\Packages\PerfectWorldEntertainment.RemnantFromtheAshes_jrajkyc4tsa6w\SystemAppData\wgs
+Reptilians Must Die!, AppData\Local\ReptiliansMustDie2.0.4EN\
+République Remastered, AppData\LocalLow\Camouflaj\R__publique\
+Resident Evil 7: Biohazard, AppData\Local\Packages\F024294D.RESIDENTEVIL7biohazard_8fty0by30jkny\SystemAppData\wgs\
+Return of the Obra Dinn, AppData\LocalLow\3909\ObraDinn\
+RiME, AppData\Local\SirenGame\Saved\SaveGames\
+Rise of Nations, Documents\My Games\Rise of Nations\
+Rise of Nations: Rise of Legends, Documents\My Games\Rise Of Legends\
+Risen, Saved Games\Risen\SaveGames
+Risen 2: Dark Waters, Saved Games\Risen2\SaveGames\
+Risen 3: Titan Lords, Saved Games\Risen3\SaveGames\
+Rivals of Aether, AppData\Local\RivalsofAether\saves\
+River City Girls, AppData\LocalLow\WayForward Technologies\River City Girls\_savedata\
+River City Girls, AppData\Local\Packages\6151WayForward.RiverCityGirlsPC_38xd6w9je1dae\LocalState\_savedata
+Robo Instructus, AppData\Local\robo-instructus\
+Robotics;Notes DaSH, Documents\My Games\mages_steam\Robotics Notes DASH\
+Robotics;Notes Elite, Documents\My Games\mages_steam\Robotics Notes ELITE\
+Rock of Ages II: Bigger & Boulder, AppData\Local\ROA2\Saved\SaveGames
+Rogue Legacy, Documents\SavedGames\RogueLegacy\
+Rogue Legacy 2, AppData\LocalLow\Cellar Door Games\Rogue Legacy 2\
+RollerCoaster Tycoon 3, Documents\RCT3\
+RollerCoaster Tycoon World, AppData\LocalLow\Nvizzio Creations\
+Ruined King: A League of Legends Story, AppData\LocalLow\Airship Syndicate\Ruined King\
+Ruiner, AppData\Local\Ruiner\Saved\SaveGames\
+Ruiner, AppData\Local\Packages\DevolverDigital.Ruiner_6kzv4j18v0c96\SystemAppData\wgs\
+Rune Factory 4 Special, AppData\Roaming\Rune Factory 4 Special\
+Rusty Lake Hotel, Documents\Rusty Lake\Hotel\
+Rusty Lake Hotel, AppData\Roaming\com.RustyLake.RustyLakeRoots\Local Store\#SharedObjects\
+Rusty Lake Paradise, Documents\Rusty Lake\Paradise\
+Rusty Lake: Roots, Documents\Rusty Lake\Roots\
+Rusty Lake: Roots, AppData\Roaming\com.RustyLake.RustyLakeRoots\Local Store\#SharedObjects\
+RYMDKAPSEL, AppData\Roaming\grapefrukt games\rymdkapsel\
+S.T.A.L.K.E.R.: Shadow of Chernobyl, Documents\Stalker-SHOC\savedgames\
+S.T.A.L.K.E.R.: Clear Sky, Documents\Stalker-STCS\savedgames\
+S.T.A.L.K.E.R.: Call of Pripyat, Public Documents\S.T.A.L.K.E.R. - Call of Pripyat\savedgames\
+S.T.A.L.K.E.R.: Call of Pripyat, Documents\Stalker-COP\savedgames\
+Sable, AppData\LocalLow\Shedworks\Sable
+Sacred 2: Fallen Angel, Saved Games\Ascaron Entertainment\Sacred 2
+Saints Row 2, AppData\Local\THQ\Saints Row 2\
+Saints Row: The Third, AppData\Local\Saints Row The Third\
+Saints Row: The Third Remastered, AppData\Local\Saints Row The Third\Remastered\
+Saints Row: The Third Remastered, AppData\Local\GOG.com\Galaxy\Applications\53610945248137475\Storage\Shared\Files\
+Sam & Max Save the World, Documents\Skunkape Games\Sam & Max Save the World\
+Sam & Max Hit the Road, AppData\Roaming\LucasArts\Sam & Max Hit the Road\
+Sam & Max: The Devil's Playhouse, Telltale Games\
+Samorost 1, AppData\Roaming\amanitadesign.samorost1\Local Store\#SharedObjects\Data\
+Samorost 3, AppData\Roaming\amanita-design.samorost3\Local Store\
+Sanctum 2, Documents\My Games\Sanctum2\SanctumGame\SaveData\
+Satisfactory, AppData\Local\FactoryGame\Saved\SaveGames\
+Savant - Ascent, AppData\Local\Savant_Ascent\
+Saw, Documents\My Games\Saw\SawGame\Checkpoints\
+Scarlet Nexus, AppData\Local\BANDAI NAMCO Entertainment\SCARLET NEXUS\Saved\SaveGames
+Scarlet Nexus, AppData\Local\ScarletNexus\Saved\SaveGames\
+Sea of Solitude, AppData\LocalLow\Jo-Mei GmbH\SeaOfSolitude\
+Secret of Mana (3D Remake), Documents\My Games\Secret of Mana\
+SEGA Mega Drive Classics, Documents\SEGA Mega Drive Classics\
+SEGA Genesis Classics, Documents\SEGA Genesis Classics\
+Sekiro: Shadows Die Twice, AppData\Roaming\Sekiro\
+Serial Cleaner, AppData\LocalLow\iFun4all\Serial Cleaner
+Seven Kingdoms 2 HD, Documents\My Games\Seven Kingdoms 2 HD\
+Seven Kingdoms: Conquest, Documents\Seven Kingdoms Conquest\Saved Games\
+Shadow Complex Remastered, Documents\My Games\Shadow Complex\EmpireGame\
+Shadow Man Remastered, \Saved Games\Nightdive Studios\Shadowman EX\saves
+Shadow of the Tomb Raider, Documents\Shadow of the Tomb Raider\
+Shadow Tactics: Blades of the Shogun, AppData\Local\Daedalic Entertainment GmbH\Shadow Tactics Blades of the Shogun\
+Shadow Warrior (2013), Documents\Shadow Warrior\profiles\
+Shadow Warrior (2013), Documents\Shadow Warrior DX11\profiles\
+Shadow Warrior 2, Saved Games\Flying Wild Hog\Shadow Warrior 2\profiles\
+Shadowgate, Documents\Zojoi\Shadowgate\
+Shadowrun Returns, AppData\Local\Harebrained Schemes\Shadowrun Returns\Saves\
+Shadowrun: Dragonfall - Director's Cut, AppData\Local\Harebrained Schemes\Shadowrun Dragonfall\Saves
+Shadowrun: Hong Kong, AppData\Roaming\Harebrained Schemes\Shadowrun Hong Kong\Saves
+Shady Part of Me, Documents\My Games\Shady Part of Me\
+Shakedown: Hawaii, AppData\Roaming\ShakedownHawaii\
+Shank 2, Documents\My Games\Shank 2\
+Shantae and the Seven Sirens, AppData\Roaming\Wayforward\ShantaeSiren\
+Shantae: Half-Genie Hero, AppData\Roaming\Wayforward\ShantaeHero\
+Shantae: Half-Genie Hero, AppData\Roaming\Wayforward\ShantaeHeroUltimate\
+Shantae: Risky's Revenge - Director's Cut, AppData\Roaming\Wayforward\riskysrevenge\
+Shapez.io, AppData\Roaming\shapez.io\saves\
+Shatter, AppData\Local\Sidhe\SH\data\profiles\
+Shenmue I & II, AppData\Local\Packages\7904SEGAEuropeLtd.Shenmue-GamePass_zs7esxpzd8d5c\SystemAppData\wgs\
+Shenmue III, AppData\Local\Shenmue3\Saved\SaveGames\
+Shenzhen I/O, Documents\My Games\SHENZHEN IO\
+Sherlock Holmes: Chapter One, AppData\Local\SH9\Saved\SaveGames\
+Sherlock Holmes: Crimes & Punishments, Documents\My Games\Sherlock Holmes - Crimes and Punishments\SH7Game\
+Shift 2 Unleashed, Documents\SHIFT 2 UNLEASHED\profiles\
+Shin Megami Tensei III Nocturne HD Remaster, AppData\Roaming\SEGA\smt3hd\
+Shoppe Keep 2, AppData\LocalLow\Strange Fire\Shoppe Keep 2\Saves
+Shovel Knight: Treasure Trove, AppData\Roaming\Yacht Club Games\Shovel Knight\
+Shovel Knight: King of Cards, AppData\Roaming\Yacht Club Games\Shovel Knight - King of Cards\
+Shovel Knight: Spectre of Torment, AppData\Roaming\Yacht Club Games\Shovel Knight - Specter of Torment\
+Shovel Knight: Shovel of Hope, AppData\Roaming\Yacht Club Games\Shovel Knight - Shovel of Hope\
+Sid Meier's Pirates!, Documents\My Games\Sid Meier's Pirates!\
+Signal Simulator, AppData\LocalLow\SOL Games\Signal Simulator
+SimCity 4, Documents\SimCity 4\Regions\
+SimCity (2013), Documents\SimCity\Games\
+Singularity, Documents\Singularity\RvGame\SaveData\
+Sinner: Sacrifice for Redemption, AppData\Local\blackstar_uproject\Saved\SaveGames\
+Sinner: Sacrifice for Redemption, AppData\Local\Packages\AnotherIndie.SINNERforWindows10_zrgg4v79ydekg\LocalCache\Local\blackstar_uproject\Saved\SaveGames\
+SkateBIRD, AppData\LocalLow\Glass Bottom Games\SkateBIRD\
+Skul: The Hero Slayer, AppData\LocalLow\Southpaw Games\Skul\
+Skullgirls 2nd Encore, Documents\Skullgirls\Save Data
+Skylanders: Spyro's Adventure, AppData\Local\Spyro\Save\
+Slain: Back from Hell, AppData\LocalLow\Wolfbrew Games\Slain\
+Slasher's Keep, AppData\LocalLow\Games Damian made\Slasher_s Keep
+Slay the Spire, AppData\Local\Packages\HumbleBundle.SlayTheSpire_q2mcdwmzx4qja\LocalCache\Local\Microsoft\WritablePackageRoot\
+Slime Rancher, AppData\LocalLow\Monomi Park\Slime Rancher\
+Smite (configs), Documents\My Games\Smite\BattleGame\Config\
+Sniper Elite 4, AppData\Local\SniperElite4\PC_ProfileSaves\
+Sniper Elite 3, AppData\Local\Sniper3\PC_ProfileSaves\
+Sniper Elite V2, AppData\Local\SniperV2\PC_ProfileSaves
+Sniper Elite: Nazi Zombie Army, AppData\Local\Sniper Elite Nazi Zombie\PC_ProfileSaves
+Sniper Elite: Nazi Zombie Army 2, AppData\Local\Sniper Elite Nazi Zombie Army 2\PC_ProfileSaves
+Sniper: Ghost Warrior, Documents\Sniper - Ghost Warrior\out\save\
+Sniper: Ghost Warrior 2, Saved Games\SniperGhostWarrior2
+Sniper: Ghost Warrior Contracts, Saved Games\Sniper Ghost Warrior Contracts\SaveGames\
+SNK 40th Anniversary Collection, AppData\Roaming\SNK40thAnniversaryCollection\
+Soda Dungeon, AppData\Roaming\dungeon\
+SOMA, Documents\My Games\Soma\Main
+Sonic Colors: Ultimate, AppData\Roaming\Sonic Colors\app_userdata\Sonic Colors- Ultimate\
+Sorcery! Parts 1 and 2, AppData\Local\inkle\Sorcery
+Soulcalibur VI, AppData\Local\SoulcaliburVI\Saved\SaveGames\
+Soundodger+, Documents\soundodger\
+Soundodger+, AppData\Roaming\com.onemrbean.soundodgerplus\Local Store\
+South Park: The Stick of Truth, Documents\My Games\South Park - The Stick of Truth\save\
+SpaceChem, AppData\Local\Zachtronics Industries\SpaceChem\
+Spider-Man 3, AppData\Roaming\Activision\Spider-Man 3\
+Spider-Man: Friend or Foe, Documents\Activision\Spider-Man FoF\Saved Games
+Spider-Man: Shattered Dimensions, Documents\Activision\Spider-Man (TM) SD\Save
+Spider-Man: Web of Shadows, Documents\Activision\Spider-Man Web of Shadows\
+Spin Rhythm XD, AppData\LocalLow\Super Spin Digital\Spin Rhythm XD\
+Spiritfarer, AppData\LocalLow\Thunder Lotus Games\Spiritfarer\
+Spiritfarer, Packages\44905ThunderLotusGames.40196900AE792_hbhkcnqstm4gr\SystemAppData\wgs
+Split Second, Documents\Disney Interactive Studios\Split Second\
+SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated, Pineapple\Saved\SaveGames
+Spooky's Jump Scare Mansion: HD Renovation, AppData\LocalLow\Albino Moose Games\SpookyHD\
+Spyro Reignited Trilogy, Falcon\Saved\SaveGames\
+Star Ocean: The Last Hope 4K & Full HD Remaster, Documents\My Games\STAR OCEAN - THE LAST HOPE - 4K & Full HD Remaster\
+Star Wars Jedi: Fallen Order, Saved Games\Respawn\JediFallenOrder\
+STAR WARS: Squadrons, Documents\STAR WARS Squadrons\
+STAR WARS: Squadrons, Documents\STAR WARS Squadrons Steam\
+Star Wars: The Force Unleashed, Documents\Aspyr\Star Wars The Force Unleashed\
+Star Wars: The Force Unleashed II, Documents\LucasArts\Star Wars The Force Unleashed 2\Saves\
+StarCraft, Documents\Starcraft\Characters\
+StarCraft II, Documents\StarCraft II\Accounts\
+Stardew Valley, AppData\Roaming\StardewValley\Saves\
+State of Decay 2, AppData\Local\StateOfDecay2\Saved\
+State of Decay 2, AppData\Local\Packages\Microsoft.Dayton_8wekyb3d8bbwe\SystemAppData\wgs
+Stationeers, Documents\My Games\Stationeers\
+Stealth Bastard Deluxe, AppData\Roaming\StealthBastard\
+Stealth Inc. 2: A Game of Clones, AppData\Local\Curve Digital\Stealth Inc. 2\savedata\
+SteamWorld Dig, Documents\My Games\SteamWorld Dig\
+SteamWorld Dig 2, Documents\My Games\SteamWorld Dig 2\
+SteamWorld Heist, Documents\My Games\SteamWorld Heist\
+SteamWorld Quest: Hand of Gilgamech, Documents\My Games\SteamWorld Quest\
+Steins;Gate, Documents\My Games\mages_steam\STEINS;GATE\
+Steins;Gate, AppData\Roaming\Nitroplus\STEINS;GATE
+Steins;Gate 0, Documents\My Games\mages_dmm\STEINS GATE 0
+Steins;Gate 0, Documents\My Games\mages_steam\STEINS GATE 0
+Steins;Gate Elite, Documents\My Games\mages_steam\Steins Gate ELITE
+Steins;Gate: Linear Bounded Phenogram, Documents\My Games\mages_steam\SG_Phenogram\
+Steins;Gate: My Darling's Embrace, Documents\My Games\mages_steam\SG_Darling\
+Stellaris, Documents\Paradox Interactive\Stellaris\
+Stellaris, Documents\Paradox Interactive\Stellaris GamePass\
+Stephen's Sausage Roll, AppData\LocalLow\increpare games\Sausage
+Stories Untold, AppData\LocalLow\No Code\
+Stories: The Path of Destinies, AppData\Local\Stories\Saved\SaveGames\
+Story of Seasons: Friends of Mineral Town, AppData\Roaming\SOSFoMT
+Story of Seasons: Pioneers of Olive Town, AppData\Roaming\SOSPoOT\
+Street Fighter V, AppData\Local\StreetFighterV\Saved\
+Streets of Rage 4, Documents\Streets of Rage 4 Save and Config\
+Streets of Rage 4, AppData\Local\Packages\DotEmu.StreetsofRage4_map6zyh9ym1xy\SystemAppData\wgs\
+Streets of Rogue, Documents\Streets of Rogue\
+Strafe, AppData\LocalLow\Pixel Titans\Strafe\
+Stronghold Crusader, Documents\Stronghold Crusader\Saves\
+Stronghold Crusader, Documents\Stronghold Crusader Extreme\Saves\
+Stronghold Crusader 2, Documents\Stronghold Crusader 2\Saved Games
+Styx: Master of Shadows, Documents\My Games\Styx\Save\
+Styx: Shards of Darkness, AppData\Local\Styx2\Saved\SaveGames\
+Subnautica, Appdata\LocalLow\Unknown Worlds\Subnautica\Subnautica\
+Subnautica: Below Zero, AppData\LocalLow\Unknown Worlds\Subnautica Below Zero\SubnauticaZero\
+Sundered, AppData\LocalLow\Thunder Lotus Games\Sundered\
+Sunless Sea, AppData\LocalLow\Failbetter Games\Sunless Sea\
+Sunless Skies, AppData\LocalLow\Failbetter Games\Sunless Skies\
+Sunset Overdrive, AppData\Local\Sunset\Saves\
+Sunset Overdrive, AppData\Local\Packages\Microsoft.Sunflower_8wekyb3d8bbwe\LocalState\Saves\
+Super 3-D Noah's Ark, Saved Games\Noah3D\
+Super Cloudbuilt, AppData\Roaming\SuperCloudbuilt\
+Super Crate Box, AppData\Local\SuperCrateBox_YoYo\
+Super Fancy Pants Adventure, AppData\Roaming\com.bornegames.FPAWorld4\Local Store\#SharedObjects\
+Super Meat Boy Forever, Documents\My Games\Super Meat Boy Forever\Save\
+Super Monkey Ball: Banana Blitz HD, AppData\Roaming\SEGA\SuperMonkeyBallBananaBlitzHD\
+Super Monkey Ball: Banana Mania, AppData\Roaming\SEGA\SuperMonkeyBallBananaMania\SAVE
+Super Motherload, AppData\Roaming\XGen Studios, Inc\Super Motherload\savedata\
+Super Neptunia RPG, AppData\LocalLow\Artisan Studios\Super Neptunia™ RPG\
+Super Street Fighter IV: Arcade Edition, Documents\CAPCOM\SUPERSTREETFIGHTERIV\
+Super Time Force Ultra, AppData\Roaming\capy\SuperTimeForce
+Super Win the Game, Documents\My Games\Super Win the Game\Saves\
+Superflight, AppData\LocalLow\Grizzly Games\SUPERFLIGHT\
+SUPERHOT, AppData\LocalLow\SUPERHOT_Team\SUPERHOT\
+SUPERHOT VR, AppData\LocalLow\SUPERHOT_Team\SUPERHOT_VR
+Superhot: Mind Control Delete, AppData\LocalLow\SUPERHOT_Team\SHMCD\
+Superliminal, AppData\LocalLow\PillowCastle\Superliminal\
+Superliminal, AppData\LocalLow\PillowCastle\SuperliminalSteam\
+SuperTuxKart, AppData\Roaming\supertuxkart\
+Supraland, AppData\Local\Supraland\Saved\SaveGames\
+Surf's Up, Documents\My Games\Surf's Up\
+Sword Art Online: Fatal Bullet, AppData\Local\SAOFB\Saved\SaveGames\
+Syberia, Documents\Syberia Saves\
+Syberia II, Documents\Syberia 2 Saves\
+Syberia 3, AppData\LocalLow\Microids\Syberia3
+Synthetik: Legion Rising, AppData\Local\Synthetik\
+System Shock: Enhanced Edition, AppData\Roaming\Nightdive Studios\System Shock EE\savegame\archive\
+Tabletop Simulator, Documents\My Games\Tabletop Simulator\Saves\
+Tales from the Borderlands, Documents\Telltale Games\Tales from the Borderlands\
+Tales of Arise, AppData\Local\BANDAI NAMCO Entertainment\Tales of Arise\Saved\SaveGames\
+Tales of Maj'Eyal, \T-Engine\
+Tales of Monkey Island, Documents\Telltale Games\
+Tales of Vesperia: Definitive Edition, AppData\Local\Packages\NAMCOBANDAIGamesInc.TalesofVesperiaPCBaseGame_gdy2aq6ez762w\SystemAppData\wgs\
+Talisman: Digital Edition, AppData\Roaming\Nomad Games\Talisman
+Tangled, Documents\Disney Interactive Studios\Tangled\savedata
+Tangledeep, AppData\LocalLow\ImpactGameworks\Tangledeep\
+Tanglewood, AppData\Roaming\tanglewood
+Team Sonic Racing, AppData\Local\Sumo Digital Ltd\
+Teardown, Documents\Teardown\
+Teardown, AppData\Local\Teardown
+Tekken 7, AppData\Local\TekkenGame\Saved\SaveGames\
+Tennis World Tour, AppData\Local\Tennis World Tour\
+Terraforming Mars, AppData\LocalLow\LuckyHammers\Terraforming Mars\Saves\LocalGameSave\
+Terraria, Documents\My Games\Terraria\
+Teslagrad, AppData\LocalLow\Rain\Teslagrad
+The Artful Escape, AppData\Local\ArtfulEscape\Saved\SaveGames\Steam\
+The Artful Escape, AppData\Local\Packages\AnnapurnaInteractive.TheArtfulEscape_c96c51jf6wkvm\SystemAppData\wgs
+The Ascent, AppData\Local\TheAscent\Saved\SaveGames\
+The Banner Saga, AppData\Roaming\TheBannerSaga\Local Store\save\
+The Banner Saga 2, AppData\Roaming\TheBannerSaga2\Local Store\save\
+The Banner Saga 3, AppData\Roaming\TheBannerSaga3\Local Store\save\
+The Bard's Tale Trilogy, AppData\LocalLow\InXile Entertainment\The Bard's Tale Trilogy\
+The Bard's Tale IV: Director's Cut, AppData\Local\BardsTale4DC\Saved\SaveGames\
+The Basement Collection, AppData\Roaming\collection\
+The Binding of Isaac: Rebirth, Documents\My Games\Binding of Isaac Rebirth\
+The Binding of Isaac: Afterbirth, Documents\My Games\Binding of Isaac Afterbirth\
+The Binding of Isaac: Afterbirth+, Documents\My Games\Binding of Isaac Afterbirth+\
+The Binding of Isaac: Repentance, Documents\My Games\Binding of Isaac Repentance\
+The Cave, AppData\Roaming\Doublefine\TheCave\
+The Dark Crystal: Age of Resistance Tactics, AppData\LocalLow\BonusXP\DCAORTactics\SaveData
+The Darkness II, AppData\Roaming\DarknessII\
+The Darkside Detective, AppData\LocalLow\Spooky Doorway\The Darkside Detective\
+The Darkside Detective: A Fumble in the Dark, AppData\LocalLow\Spooky Doorway\The Darkside Detective 2\
+The Elder Scrolls IV: Oblivion, Documents\My Games\Oblivion\Saves\
+The Elder Scrolls V: Skyrim, Documents\My Games\Skyrim\Saves\
+The Elder Scrolls V: Skyrim Special Edition, Documents\My Games\Skyrim Special Edition\Saves\
+The Elder Scrolls V: Skyrim VR, Documents\My Games\Skyrim VR\Saves\
+The Enchanted Cave 2, AppData\Roaming\okshur\Enchanted Cave 2\
+The Escapists, Documents\The Escapists\
+The Escapists 2, AppData\LocalLow\Team 17 Digital ltd_\The Escapists 2\Saves\
+The Evil Within, Saved Games\TangoGameworks\The Evil Within\base\savegame\
+The Evil Within, Packages\BethesdaSoftworks.TheEvilWithin-PC_3275kfvn8vcwc\SystemAppData\wgs\
+The Evil Within 2, Saved Games\TangoGameworks\The Evil Within 2\base\savegame\
+The Flame in the Flood, AppData\Local\RiverGame\Saved\SaveGames\
+The Forest, AppData\LocalLow\SKS\TheForest\
+The Good Life, AppData\Local\Packages\ActiveGamingMediaInc.TheGoodLife_4tj796bhrrsp0\
+The Henry Stickmin Collection, AppData\Roaming\com.innersloth.henry.HenryFlash\Local Store
+The House of the Dead III, Application Data\SEGA\THE HOUSE OF THE DEAD3\
+The Hunter: Call of the Wild, Documents\Avalanche Studios\theHunter Call of the Wild\Saves\
+The Incredible Adventures of Van Helsing, Documents\NeocoreGames\Van Helsing\SaveGame\
+The Incredible Adventures of Van Helsing III, Documents\NeocoreGames\Van Helsing 3\SaveGame\
+The Incredible Adventures of Van Helsing: Final Cut, Documents\NeocoreGames\Van Helsing Final Cut\SaveGame\
+The King's Bird, AppData\LocalLow\Serenity Forge\The King's Bird\
+The Legend of Bum-Bo, AppData\LocalLow\Edmund McMillen Games\The Legend of Bum-bo
+The Legend of Heroes: Trails in the Sky, Saved Games\FALCOM\ED6\
+The Legend of Heroes: Trails in the Sky SC, Saved Games\FALCOM\ED_SORA2\
+The Legend of Heroes: Trails in the Sky the 3rd, Saved Games\FALCOM\ED_SORA3\
+The Legend of Heroes: Trails of Cold Steel, Saved Games\Falcom\ed8
+The Legend of Heroes: Trails of Cold Steel II, Saved Games\FALCOM\ed8_2
+The Legend of Heroes: Trails of Cold Steel III, Saved Games\FALCOM\ed8_psv3
+The Legend of Heroes: Trails of Cold Steel IV, Saved Games\FALCOM\ed8_psv4
+The Legend of Korra, Documents\Korra\
+The Lego Movie 2 Videogame, AppData\Roaming\Warner Bros. Interactive Entertainment\LEGO The LEGO Movie 2\
+The Life and Suffering of Sir Brante, AppData\LocalLow\SEVER\The Life and Suffering of Sir Brante\Saves\
+The Long Dark, AppData\Local\Hinterland\TheLongDark\
+The Medium, AppData\Local\Medium\Saved\SaveGames\
+The Medium, AppData\Local\Packages\3951BlooberTeamS.A.TheMedium_myqva651hxz16\LocalCache\Local\Medium\Saved\Config\WinGDK\
+The Metronomicon: Slay the Dance Floor, Documents\MetronomiconSaves\
+The Outer Worlds, Saved Games\The Outer Worlds\
+The Outer Worlds, \Saved Games\The Outer Worlds Windows 10\
+The Outer Worlds, AppData\Local\Packages\PrivateDivision.TheOuterWorldsWindows10_hv3d7yfbgr2rp\SystemAppData\wgs\
+The Pathless, AppData\Local\Pathless\Saved\SaveGames\
+The Room 2, AppData\LocalLow\Fireproof Games\The Room Two\
+The Room 3, AppData\LocalLow\Fireproof Games\The Room Three\
+The Room 4: Old Sins, AppData\LocalLow\Fireproof Studios\Old Sins\
+The Room VR: A Dark Matter, AppData\LocalLow\Fireproof Games\The Room VR
+The Secret of Monkey Island: Special Edition, LucasArts\The Secret of Monkey Island Special Edition
+The Sexy Brutale, AppData\LocalLow\Cavalier Game Studios\The Sexy Brutale\
+The Sexy Brutale, AppData\LocalLow\CGS\TSB\
+The Signal State, AppData\LocalLow\Reckoner Industries\The Signal State\profiles\
+The Sims 3, Documents\Electronic Arts\The Sims 3\Saves
+The Sims 4, Documents\Electronic Arts\The Sims 4\saves\
+The Surge, Documents\The Surge\save\
+The Surge 2, Documents\The Surge 2\save\
+The Survivalists, AppData\LocalLow\Team17 Digital Ltd_\The Survivalists\
+The Swapper, Documents\Facepalm Games\The Swapper 1000\
+The Swindle, AppData/LocalLow/Size Five Games/The Swindle/
+The Swords of Ditto, AppData\Local\The_Swords_of_Ditto\
+The Textorcist: The Story of Ray Bibbia, AppData\Local\Textorcist\
+The Turing Test, AppData\Local\Packages\BulkheadInteractive.TheTuringTest_es3fzbrr4bc5r\SystemAppData\wgs
+The Typing of the Dead 2, AppData\Roaming\The Typing of the Dead 2
+The Typing of The Dead: Overkill, AppData\Roaming\Sega\Typing of the Dead Overkill
+The Unfinished Swan, AppData\Local\Annapurna Interactive\The Unfinished Swan\
+The Vanishing of Ethan Carter, Documents\My Games\The Vanishing of Ethan Carter\AstronautsGame\SaveData\
+The Vanishing of Ethan Carter Redux, Documents\My Games\The Vanishing of Ethan Carter Redux\SavedGames\
+The Vanishing of Ethan Carter VR, Documents\My Games\The Vanishing of Ethan Carter VR\SavedGames\
+The Walking Dead: A New Frontier, Documents\Telltale Games\The Walking Dead - A New Frontier (Season 3)\
+The Walking Dead: A New Frontier, Documents\Telltale Games\The Walking Dead A New Frontier\
+The Walking Dead: Michonne, Documents\Telltale Games\The Walking Dead Michonne\
+The Walking Dead: Season One, Documents\Telltale Games\The Walking Dead\
+The Walking Dead: Season Two, Documents\Telltale Games\The Walking Dead Season Two\
+The Walking Dead: The Final Season, Documents\Telltale Games\The Walking Dead The Final Season\
+The Walking Dead: The Telltale Definitive Series, Documents\Telltale Games\TWDTTDS\
+The White Door, Documents\Rusty Lake\TheWhiteDoor\
+The Witcher, Documents\The Witcher\saves\
+The Witcher 2: Assassins of Kings, Documents\Witcher 2\gamesaves\
+The Witcher 3: Wild Hunt, Documents\The Witcher 3\gamesaves\
+The Witness, AppData\Roaming\The Witness\
+The Wolf Among Us, Documents\Telltale Games\The Wolf Among Us\
+The Wonderful 101: Remastered, Documents\My Games\TheWonderful101\
+TheoTown, \Theotown\
+There Is No Game: Wrong Dimension, AppData\LocalLow\DrawMeAPixel\Ting\
+They Are Billions, Documents\My Games\They Are Billions\Saves\
+Thief (2014), Documents\My Games\Thief\
+Thief Simulator, AppData\LocalLow\Noble Muffins\Thief Simulator
+Thief Simulator VR, AppData\LocalLow\Game Boom VR\Thief Simulator VR\
+Thimbleweed Park, AppData\Roaming\Terrible Toybox\Thimbleweed Park\
+This Is the Police, AppData\LocalLow\Weappy\This Is The Police\
+This Is the Police 2, AppData\LocalLow\Weappy\This Is The Police 2\
+This War of Mine, AppData\Roaming\11bitstudios\This War Of Mine\
+Thronebreaker: The Witcher Tales, AppData\LocalLow\CDProjektRED\Thronebreaker\SaveData\
+Ticket to Ride, AppData\Local\Days of Wonder\Ticket to Ride\
+Ticket to Ride: First Journey, AppData\LocalLow\Asmodee Digital\TTR1J\
+TIS-100, Documents\My Games\TIS-100
+Titan Quest, Documents\My Games\Titan Quest\
+Titan Quest Anniversary Edition, Documents\My Games\Titan Quest - Immortal Throne\
+Titanfall 2, Documents\Respawn\Titanfall2\profile\
+To the Moon, AppData\Roaming\To the Moon - Freebird Games\
+ToeJam & Earl: Back in the Groove, AppData\LocalLow\HumaNature Studios\ToeJam & Earl_ Back in the Groove!\
+Tom Clancy's Ghost Recon Advanced Warfighter 2, AppData\Local\GRAW2\
+Tom Clancy's Ghost Recon: Future Soldier, Documents\Ubisoft\Tom Clancy's Ghost Recon Future Soldier\
+Tom Clancy's H.A.W.X, Saved Games\Tom Clancy's H.A.W.X\Profiles
+Tom Clancy's H.A.W.X. 2, Saved Games\Tom Clancy's H.A.W.X 2\Profiles
+Tom Clancy's Rainbow Six Siege (configs), Documents\My Games\Rainbow Six - Siege\
+Tom Clancy's Rainbow Six: Vegas, Documents\Ubisoft\R6Vegas\
+Tom Clancy's Rainbow Six: Vegas 2, Documents\My Games\Ubisoft\R6Vegas2\
+Tom Clancy's Splinter Cell: Chaos Theory, Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\Profiles\
+Tomb Raider (2013), Documents\My Games\Tomb Raider
+Tomb Raider: Anniversary, Documents\Eidos\Tomb Raider - Anniversary\Default Profile\
+Tomb Raider: Legend, Documents\Tomb Raider - Legend\
+Tomb Raider: Underworld, Documents\Eidos\Tomb Raider - Underworld\
+Tony Hawk's Pro Skater 1 + 2, AppData\Local\VicariousVisions\THPS\Saved\SaveGames\
+Tony Hawk's Pro Skater HD, Documents\My Games\Tony Hawk Pro Skater HD\THHDGame\
+Torchlight, AppData\Roaming\runic games\torchlight\save
+Torchlight 2, Documents\My Games\Runic Games\Torchlight 2\
+Torchlight 3, AppData\Local\Frontiers\Saved\SaveGames
+Tormented Souls, AppData\LocalLow\duale-abstractd
+Total War: Attila, AppData\Roaming\The Creative Assembly\Attila\
+Total War: Rome II, AppData\Roaming\The Creative Assembly\Rome2\save_games\
+Total War: Remastered, AppData\Local\Feral Interactive\Total War ROME REMASTERED\VFS\
+Total War: Shogun 2, AppData\Roaming\The Creative Assembly\Shogun2\
+Total War: Three Kingdoms, AppData\Roaming\The Creative Assembly\ThreeKingdoms\save_games\
+Total War: Warhammer, AppData\Roaming\The Creative Assembly\Warhammer\Save Games\
+Total War: Warhammer II, AppData\Roaming\The Creative Assembly\Warhammer2\
+Totally Accurate Battle Simulator, AppData\LocalLow\Landfall Games\Totally Accurate Battle Simulator\Saved\
+Touhou Luna Nights, AppData\Local\touhou_luna_nights\
+Touhou: Scarlet Curiosity, AppData\Roaming\AnkakeSpa\ScarletCuriosity\
+Tower of Time, AppData\LocalLow\Event horizon\Tower of Time\
+Trackmania (2020 & Nations Forever), Documents\Trackmania\
+TrackMania 2, Documents\ManiaPlanet\
+Trackmania Turbo, Documents\TrackmaniaTurbo\
+Train Sim World, Documents\My Games\TS2Prototype\Saved\
+Train Sim World 2, Documents\My Games\TrainSimWorld2EGS\Saved\SaveGames\
+Transformers: Devastation, Documents\TRANSFORMERS_Devastation\
+Transformers: Revenge of the Fallen, Documents\My Games\Activision\Transfomers2\Saved Games\
+Transformers: Rise of the Dark Spark, Documents\My Games\TransformersRotDS\TransGame\SaveData\
+Transformers: The Game, Documents\My Games\Activision\Transformers\
+Transformers: War for Cybertron, Documents\My Games\Transformers\TransGame\
+Transistor, Documents\Saved Games\Transistor\
+Travis Strikes Again: No More Heroes, AppData\Local\TSANMH\Saved\
+Trials of Mana (Remake), Documents\My Games\Trials of Mana\Steam\
+Trials Rising, Documents\Trials World Tour\SavedGames\
+Tribes of Midgard, TOM\Saved\
+Trine Enchanted Edition, AppData\Roaming\Trine1\
+Trine 2, AppData\Roaming\Trine2\
+Trine 3: The Artifacts of Power, AppData\Roaming\Trine3\
+Trine 4: The Nightmare Prince, AppData\Roaming\Trine4\
+Tropico 3, AppData\Roaming\Tropico 3\Saves
+Tropico 4, AppData\Roaming\Tropico 4\
+Tropico 5, AppData\Roaming\Tropico 5\
+Tropico 6, Documents\My Games\Tropico6\Saved\SaveGames\
+Turok, AppData\Roaming\Touchstone\Turok
+Two Point Hospital, AppData\LocalLow\Two Point Studios\Two Point Hospital\Cloud\
+Two Point Hospital, AppData\Local\Packages\7904SEGAEuropeLtd.TwoPointHospital-GamePass_zs7esxpzd8d5c\SystemAppData\wgs
+Two Worlds, Saved Games\Two Worlds Saves\
+Two Worlds II, Saved Games\Two Worlds II\
+Type:Rider, AppData\Local\TypeRider
+Ultimate Chicken Horse, AppData\LocalLow\Clever Endeavour Games\Ultimate Chicken Horse\
+Ultimate Spider-Man, Documents\Activision\Ultimate Spider-Man\Save\
+Ultrawings, AppData\LocalLow\Bit Planet Games LLC\Ultrawings\
+UnderMine, AppData\LocalLow\Thorium Entertainment\UnderMine\Saves
+UnderMine, AppData\Local\Packages\Thorium.UnderMine_j6gc5ewhjtwag\LocalState\
+Undertale, AppData\Local\UNDERTALE\
+UnderRail, Documents\My Games\Underrail\Saves\
+Undungeon, AppData\LocalLow\tinyBuildGames\Undungeon\
+UnEpic, AppData\Roaming\unepic\save\
+Universe Sandbox, Documents\My Games\Universe Sandbox\Simulations
+Universe Sandbox Legacy, Documents\Universe Sandbox\Simulations\
+Unrailed!, AppData\Local\Daedalic Entertainment GmbH\Unrailed\GameState\AllPlayers\SaveGames
+Unravel, AppData\Local\Unravel
+Unravel 2, AppData\Local\UnravelTwo\
+Unreal Tournament 3, Documents\My Games\Unreal Tournament 3\UTGame\SaveData\
+Untitled Goose Game, AppData\LocalLow\House House\Untitled Goose Game\
+VA-11 Hall-A: Cyberpunk Bartender Action, AppData\Local\VA_11_Hall_A\saves
+VA-11 Hall-A: Cyberpunk Bartender Action, Packages\YsbrydGames.VA-11Hall-ACyberpunkBartenderAction_cqfre349xfmdg\SystemAppData\wgs
+Vacation Simulator, AppData\LocalLow\Owlchemy Labs\Vacation Simulator\User
+Valheim, AppData\LocalLow\IronGate\Valheim\
+Valkyria Chronicles 4, Documents\SEGA\VC4\gamesaves\
+Valorant (configs), AppData\Local\VALORANT\Saved\Config
+Vampire: The Masquerade - Coteries of New York, AppData\LocalLow\DrawDistance\VtM Coteries of New York\Saves\
+Vampire: The Masquerade - Shadows of New York, AppData\LocalLow\DrawDistance\VtM Shadows of New York\Saves\
+Vampyr, AppData\Local\AVGame\Saved\SaveGames
+Vampyr, AppData\Local\Packages\FocusHomeInteractiveSA.VAMPYR_4hny5m903y3g0\LocalCache\Local\AVGame\Saved\SaveGames
+Verlet Swing, AppData\LocalLow\Flamebait Games\Verlet Swing\
+Void Bastards, AppData\LocalLow\BlueManchu\VoidBastards\
+VVVVVV, Documents\VVVVVV\
+Waking Mars, Saved Games\Waking Mars
+WALL-E, Documents\WALL-E\
+Wandersong, AppData\Local\wandersong\
+Wandersong, AppData\Local\Packages\HumbleBundle.Wandersong_q2mcdwmzx4qja\LocalCache\Local\wandersong\
+Warcraft III: Reforged, Documents\Warcraft III\BattleNet\
+Warcraft III: Reign of Chaos, Saved Games\Warcraft III\
+Warframe (configs), AppData\Local\Warframe\
+Wargroove, AppData\Roaming\Chucklefish\Wargroove\save\
+Warhammer 40K: Dawn of War II, Documents\My Games\Dawn of War 2\
+Warhammer 40K: Dawn of War II: Retribution, Documents\My Games\dawn of war ii - retribution\Saved Games\
+Warhammer 40K: Deathwatch - Enhanced Edition, AppData\Local\DeathwatchGame\Saved\SaveGames\
+Warhammer 40K: Gladius - Relics of War, Documents\Proxy Studios\Gladius\SavedGames\
+Warhammer 40K: Mechanicus, AppData\LocalLow\BulwarkStudios\Mechanicus\Saves\
+Warhammer 40K: Sanctus Reach, Documents\My Games\SANCTUS\SAVES\
+Warhammer Age of Sigmar: Storm Ground, AppData\Local\Warfield\Saved\SaveGames
+Warhammer Quest, AppData\LocalLow\ChilledMouse\WarhammerQuest\
+Warhammer: End Times - Vermintide, AppData\Roaming\Fatshark\Warhammer End Times Vermintide\
+Warhammer: Mark of Chaos, Documents\Warhammer Mark of Chaos\Save\
+Warhammer: Mark of Chaos, Documents\Warhammer Battle March\Save\
+Warhammer: Vermintide 2, AppData\Roaming\Fatshark\Vermintide 2\
+Warriors Orochi 4, Documents\KoeiTecmo\WARRIORS OROCHI 4\
+Wasteland Remastered, AppData\LocalLow\InXile Entertainment\Wasteland Remastered\saves\
+Wasteland 2, Documents\My Games\Wasteland2\
+Wasteland 3, Documents\My Games\Wasteland3\Save Games\
+We Happy Few, Documents\My Games\We Happy Few\SaveGames
+We Happy Few, AppData\Local\Packages\CompulsionGamesInc.WeHappyFew_eae46zy90r9xg\SystemAppData\wgs
+We Were Here Together, LocalLow\Total Mayhem Games\We Were Here Together\Data\
+We. The Revolution, AppData\LocalLow\Polyslash\We. The Revolution\
+Weedcraft Inc, Documents\Weedcraft Inc
+Weeping Skies, AppData\Roaming\MysteryTag\Weeping Skies\save\
+Weird Park Trilogy, AppData\Roaming\DieselPuppet\WeirdParkBrokenTune\saves\
+Weird Park Trilogy, AppData\Roaming\DieselPuppet\WeirdParkBrokenTuneCollectorsEdition\saves\
+Weird Park Trilogy, AppData\Roaming\AlawarEntertainment\WeirdParkScaryTales\saves\
+Weird Park Trilogy, AppData\Roaming\AlawarEntertainment\EpicStar\WeirdPark3\saves
+Werewolf: The Apocalypse - Earthblood, AppData\Local\WW\Saved\SaveGames\
+Werewolf: The Apocalypse - Heart of the Forest, AppData\LocalLow\Different Tales\Heart of the Forest\Saves\
+West of Loathing, AppData\LocalLow\Asymmetric Software\West of Loathing\
+Westerado: Double Barreled, Documents\Westerado DB\saves\
+What Remains of Edith Finch, AppData\Local\FinchGame\Saved\SaveGames\
+What Remains of Edith Finch, AppData\Local\Packages\AnnapurnaInteractive.WhatRemainsofEdithFinch_c96c51jf6wkvm\LocalCache\Local\
+What the Golf?, AppData\LocalLow\Triband\WHAT THE GOLF_\
+Witch It, AppData\Local\WitchIt\Saved\SaveGames
+Wizard of Legend, AppData\LocalLow\Contingent99\Wizard of Legend\
+Wolfenstein: The New Order, Saved Games\MachineGames\Wolfenstein The New Order\base\savegame\
+Wolfenstein II: The New Colossus, Saved Games\MachineGames\Wolfenstein II The New Colossus\base\
+Wolfenstein: Enemy Territory, AppData\Local\PunkBuster\ET\
+Wolfenstein: The Old Blood, Saved Games\MachineGames\Wolfenstein The Old Blood\base\
+Wolfenstein: Youngblood, Saved Games\MachineGames\Wolfenstein Youngblood\base\
+Wonder Boy: The Dragon's Trap, Documents\Lizardcube\The Dragon's Trap\
+World of Goo, AppData\Local\2DBoy\WorldOfGoo\
+World of Final Fantasy, Documents\My Games\WOFF\
+World of Horror, AppData\Local\wohgame
+Worms W.M.D, AppData\Local\Packages\Team17DigitalLimited.WormsW.M.DWin10_j5x4vj4y67jhc\LocalCache\Local\
+X-Men Origins: Wolverine - Uncaged Edition, Documents\Wolverine\WGame\SaveData\
+XCOM: Enemy Unknown, \Documents\My Games\XCOM - Enemy Unknown\XComGame\SaveData\
+XCOM: Enemy Unknown, Documents\My Games\XCOM - Enemy Within\XComGame\SaveData\
+XCOM 2, Documents\My Games\XCOM2\XComGame\SaveData\
+XCOM: Chimera Squad, Documents\My Games\XCOM Chimera Squad\XComGame\SaveData
+Xenonauts, Documents\Xenonauts\
+XIII, AppData\LocalLow\Microids\XIII\
+Yakuza 0, AppData\Local\Packages\SEGAofAmericaInc.Yakuza0PC_s751p9cej88mt\SystemAppData\wgs\
+Yakuza 3 Remastered, AppData\Local\Packages\SEGAofAmericaInc.Yakuza3PC_<ALPHABETS>\SystemAppData\wgs
+Yakuza 4 Remastered, AppData\Local\Packages\SEGAofAmericaInc.Yakuza4PC_<ALPHABETS>\SystemAppData\wgs
+Yakuza 5 Remastered, AppData\Local\Packages\SEGAofAmericaInc.Yakuza5PC_s751p9cej88mt\SystemAppData\wgs\
+Yakuza Kiwami, AppData\Local\Packages\SEGAofAmericaInc.YakuzaKiwamiPC_s751p9cej88mt\SystemAppData\wgs
+Yakuza Kiwami 2, AppData\Roaming\Sega\YakuzaKiwami2\
+Yakuza: Like a Dragon, AppData\Roaming\Sega\YakuzaLikeADragon\
+Yakuza: Like a Dragon, AppData\Local\Packages\SEGAofAmericaInc.Yazawa_s751p9cej88mt\SystemAppData\wgs
+YIIK: A Postmodern RPG, AppData\LocalLow\AckkStudios\YIIK_ A Postmodern RPG\
+Yoku's Island Express, AppData\Roaming\Villa Gorilla\Yoku's Island Express\
+Yoku's Island Express, AppData\Local\Packages\Team17DigitalLimited.YokusIslandExpressWin10_j5x4vj4y67jhc\LocalCache\Roaming\Villa Gorilla\Yoku's Island Express\
+Yooka-Laylee, AppData\LocalLow\Playtonic Ltd\Yooka-Laylee\
+Yooka-Laylee and the Impossible Lair, AppData\LocalLow\Playtonic Ltd\Yooka-Laylee and the Impossible Lair\
+You Must Build A Boat, AppData\LocalLow\EightyEightGames\#ymbab\save\
+Youtubers Life, Documents\U-Play online\Youtubers Life\Saves\
+Ys I & II Chronicles+, Saved Games\FALCOM\ys12c\
+Ys IX: Monstrum Nox, Saved Games\Falcom\Ys9\
+Ys VI: The Ark of Napishtim, Saved Games\FALCOM\ys6_win\
+Ys: Memories of Celceta, Saved Games\FALCOM\Ys Memories of Celceta\game\
+Ys: The Oath in Felghana, Saved Games\FALCOM\ysf_win\
+Zero Escape: The Nonary Games, Documents\My Games\Zero Escape The Nonary Games\
+Zero Escape: Zero Time Dilemma, Documents\My Games\Zero Escape\Saves\
+Ziggurat, AppData\LocalLow\Milkstone Studios\Ziggurat\
+Ziggurat 2, Documents\My Games\Ziggurat2\
+Zombie Army 4: Dead War, AppData\Local\Zombie Army 4\PC_ProfileSaves\
+Zoo Tycoon 2, AppData\Roaming\Microsoft Games\Zoo Tycoon 2
