@@ -1090,7 +1090,7 @@ Super Win the Game, Documents\My Games\Super Win the Game\Saves\
 Superflight, AppData\LocalLow\Grizzly Games\SUPERFLIGHT\
 SUPERHOT, AppData\LocalLow\SUPERHOT_Team\SUPERHOT\
 SUPERHOT VR, AppData\LocalLow\SUPERHOT_Team\SUPERHOT_VR
-Superhot: Mind Control Delete, AppData\LocalLow\SUPERHOT_Team\SHMCD\
+SUPERHOT: Mind Control Delete, AppData\LocalLow\SUPERHOT_Team\SHMCD\
 Superliminal, AppData\LocalLow\PillowCastle\Superliminal\
 Superliminal, AppData\LocalLow\PillowCastle\SuperliminalSteam\
 SuperTuxKart, AppData\Roaming\supertuxkart\

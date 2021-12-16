@@ -28,7 +28,7 @@ fn main() {
         global_path.push_str("C:\\");
     }
 
-    // A Hashmap that stores every found save game as (game_name, save_location)
+    // Gets a tuple that stores every found save game as (game_name, save_location)
     let save_vector: Vec<(String, String)> = find_save_games(save_locations_file, global_path);
 
     loop{
@@ -38,18 +38,37 @@ fn main() {
         let mut user_input = String::new();
         io::stdin().read_line(&mut user_input).unwrap();
 
+        if user_input.trim() == "0"{
+            break;
+        }
+
         let (game_name, full_save_path) = match user_input.trim().parse::<usize>(){
-            Ok(n) => save_vector.get(n - 1).unwrap().clone(), 
+            Ok(n) => {
+                if save_vector.get(n - 1).is_some(){
+                    save_vector.get(n - 1).unwrap().clone()
+                }
+                else{
+                    println!("{}", "This number doesn't exist".red());
+                    (String::new(), String::new())
+                }
+            },
             Err(_) => {
-                (String::new(), String::new())
+                let mut _game = (String::new(), String::new());
+                for game in &save_vector{
+                    if game.0.to_lowercase() == user_input.trim().to_lowercase(){
+                        _game = game.clone();
+                        break;
+                    }
+                }
+                _game
             }
         };
 
-        println!("{}", full_save_path);
+        if !game_name.is_empty(){
+            let target_location = format!("Saves\\{}", game_name);
 
-        let target_location = format!("Saves\\{}", game_name);
-
-        copy_save_game(game_name, full_save_path, target_location);
+            copy_save_game(game_name, full_save_path, target_location);
+        }
     }
 }
 
@@ -99,16 +118,27 @@ fn copy_save_game(game_name: String, full_save_path: String, mut target_path: St
     options.overwrite = true;
 
     if dir_size > 52428800{
-        println!("{} is {}mb!", game_name.red(), dir_size / 1024 / 1024);
-    }
-    else{
-        if !folder_exists(&target_path){
-            remove_illegal_chars(&mut target_path);
-            create_dir_all(&target_path).unwrap();
-        }
+        print!("{} is {}{}! Are you sure you want to copy it? [Y/N]: ", game_name.green(), (dir_size / 1024 / 1024).to_string().red(), "mb".red());
+        std::io::stdout().flush().unwrap();
+        let mut user_input = String::new();
+        io::stdin().read_line(&mut user_input).unwrap();
 
-        copy(&full_save_path, target_path, &options).unwrap();
+        if user_input.trim().to_lowercase() != "y"{
+            return;
+        }
     }
+
+    if !folder_exists(&target_path){
+        remove_illegal_chars(&mut target_path);
+        create_dir_all(&target_path).unwrap();
+    }
+
+    print!("Copying {} ({}mb)... ", game_name.green(), dir_size / 1024 / 1024);
+    std::io::stdout().flush().unwrap();
+
+    copy(&full_save_path, target_path, &options).unwrap();
+
+    println!("{}", "Done!".bright_green());
 }
 
 // Just shorthand for checking if folder exists
