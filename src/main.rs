@@ -43,36 +43,43 @@ fn main() {
         if user_input.trim() == "0"{
             break;
         }
-
-        let (game_name, full_save_path) = match user_input.trim().parse::<usize>(){
-            Ok(n) => {
-                if save_vector.get(n - 1).is_some(){
-                    save_vector.get(n - 1).unwrap().clone()
-                }
-                else{
-                    println!("{}", "This number doesn't exist".red());
-                    (String::new(), String::new())
-                }
-            },
-            Err(_) => {
-                let mut _game = (String::new(), String::new());
-                for game in &save_vector{
-                    if game.0.to_lowercase() == user_input.trim().to_lowercase(){
-                        _game = game.clone();
-                        break;
-                    }
-                }
-                if _game.0.is_empty(){
-                    println!("{}", "Game not found. Are you sure the name is correct?".red());
-                }
-                _game
+        else if user_input.trim().to_lowercase() == "all"{
+            for (game_name, full_save_path) in &save_vector{
+                let target_path = format!("Saves\\{}", game_name);
+                copy_save_game(game_name.to_string(), full_save_path.to_string(), target_path);
             }
-        };
+        }
+        else{
+            let (game_name, full_save_path) = match user_input.trim().parse::<usize>(){
+                Ok(n) => {
+                    if save_vector.get(n - 1).is_some(){
+                        save_vector.get(n - 1).unwrap().clone()
+                    }
+                    else{
+                        println!("{}", "This number doesn't exist".red());
+                        (String::new(), String::new())
+                    }
+                },
+                Err(_) => {
+                    let mut _game = (String::new(), String::new());
+                    for game in &save_vector{
+                        if game.0.to_lowercase() == user_input.trim().to_lowercase(){
+                            _game = game.clone();
+                            break;
+                        }
+                    }
+                    if _game.0.is_empty(){
+                        println!("{}", "Game not found. Are you sure the name is correct?".red());
+                    }
+                    _game
+                }
+            };
 
-        if !game_name.is_empty(){
-            let target_location = format!("Saves\\{}", game_name);
+            if !game_name.is_empty(){
+                let target_location = format!("Saves\\{}", game_name);
 
-            copy_save_game(game_name, full_save_path, target_location);
+                copy_save_game(game_name, full_save_path, target_location);
+            }
         }
     }
 }
