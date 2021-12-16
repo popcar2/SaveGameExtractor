@@ -1,5 +1,5 @@
 use std::{fs::{self, create_dir_all}, path::Path, io, io::Write};
-use colored::{Colorize, control::{self}};
+use colored::{Colorize};
 use fs_extra::dir::{copy, CopyOptions, get_size};
 // TODO: Add case for C:\ProgramData\.
 // Chicken Invaders
@@ -17,7 +17,7 @@ fn main() {
     let save_locations_file: String = fs::read_to_string("save_locations.txt").unwrap();
 
     // Forces use of color, mainly for windows terminals
-    control::set_virtual_terminal(true).unwrap();
+    //control::set_virtual_terminal(true).unwrap();
 
     // Get the C:\ drive path from user input
     print!("Where is your C:\\ mount? (If you're on windows just press enter): ");
@@ -56,7 +56,7 @@ fn main() {
         }
         else if user_input.trim().to_lowercase() == "all"{
             for (game_name, full_save_path) in &save_vector{
-                let target_path = format!("Saves\\{}", game_name);
+                let target_path = format!("Saves/{}", game_name);
                 copy_save_game(game_name.to_string(), full_save_path.to_string(), target_path);
             }
         }
@@ -87,7 +87,7 @@ fn main() {
             };
 
             if !game_name.is_empty(){
-                let target_location = format!("Saves\\{}", game_name);
+                let target_location = format!("Saves/{}", game_name);
 
                 copy_save_game(game_name, full_save_path, target_location);
             }
@@ -102,12 +102,12 @@ fn find_save_games(save_locations_file: String, global_path: String) -> Vec<(Str
 
     let mut save_found_counter: u32 = 1;
 
-    if !folder_exists(&format!("{}{}", global_path, "Users\\")){
+    if !folder_exists(&format!("{}/{}", global_path, "Users/")){
         println!("{}", "Couldn't find the Users folder, are you sure this path leads to C:\\?".red());
         return save_vector;
     }
 
-    for user in fs::read_dir(format!("{}{}", global_path, "Users\\")).unwrap(){
+    for user in fs::read_dir(format!("{}/{}", global_path, "Users/")).unwrap(){
         let user_name = user.as_ref().unwrap().file_name();
         let user_name = user_name.to_str().unwrap();
         // "All Users" leads to ProgramData, "Default User" is the same as "Default" IIRC
@@ -121,7 +121,7 @@ fn find_save_games(save_locations_file: String, global_path: String) -> Vec<(Str
         for line in save_locations_file.lines(){
             let game_name = line.split(',').next().unwrap().trim();
             let save_path = line.split(',').nth(1).unwrap().trim();
-            let full_save_path = format!("{}\\{}", full_user_path, save_path);
+            let full_save_path = format!("{}/{}", full_user_path, save_path).replace("\\", "/");
             //let mut target_path = format!("Saves\\{}", game_name);
             
             if folder_exists(&full_save_path){
@@ -171,7 +171,13 @@ fn copy_save_game(game_name: String, full_save_path: String, mut target_path: St
     
     std::io::stdout().flush().unwrap();
 
-    copy(&full_save_path, target_path, &options).unwrap();
+    match copy(&full_save_path, target_path, &options){
+    	Ok(n) => n,
+    	Err(e) => {
+    		println!("{}{}", "Error: ".red(), e.to_string().red());
+    		return
+    	}
+    };
 
     println!("{}", "Done!".bright_green());
 }
