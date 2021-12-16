@@ -979,6 +979,8 @@ Shin Megami Tensei III Nocturne HD Remaster, AppData\Roaming\SEGA\smt3hd\
 Shoppe Keep 2, AppData\LocalLow\Strange Fire\Shoppe Keep 2\Saves
 Shovel Knight: Treasure Trove, AppData\Roaming\Yacht Club Games\Shovel Knight\
 Shovel Knight: King of Cards, AppData\Roaming\Yacht Club Games\Shovel Knight - King of Cards\
+Shovel Knight Pocket Dungeon, AppData\Roaming\Yacht Club Games\Shovel Knight Pocket Dungeon\
+Shovel Knight Pocket Dungeon, AppData\Roaming\skPuzzleKnights\
 Shovel Knight: Spectre of Torment, AppData\Roaming\Yacht Club Games\Shovel Knight - Specter of Torment\
 Shovel Knight: Shovel of Hope, AppData\Roaming\Yacht Club Games\Shovel Knight - Shovel of Hope\
 Sid Meier's Pirates!, Documents\My Games\Sid Meier's Pirates!\
