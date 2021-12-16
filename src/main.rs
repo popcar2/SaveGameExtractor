@@ -1,5 +1,5 @@
 use std::{fs::{self, create_dir_all}, path::Path, io, io::Write};
-use colored::Colorize; 
+use colored::{Colorize, control::{self}};
 use fs_extra::dir::{copy, CopyOptions, get_size};
 // TODO: Add case for C:\ProgramData\.
 // Chicken Invaders
@@ -14,7 +14,10 @@ use fs_extra::dir::{copy, CopyOptions, get_size};
 
 fn main() {
     // This text file holds all save game locations
-    let save_locations_file = fs::read_to_string("save_locations.txt").unwrap();
+    let save_locations_file: String = fs::read_to_string("save_locations.txt").unwrap();
+
+    // Forces use of color, mainly for windows terminals
+    control::set_virtual_terminal(true).unwrap();
 
     // Get the C:\ drive path from user input
     print!("Where is your C:\\ mount? (If you're on windows just press enter): ");
@@ -30,6 +33,14 @@ fn main() {
 
     // Gets a tuple that stores every found save game as (game_name, save_location)
     let save_vector: Vec<(String, String)> = find_save_games(save_locations_file, global_path);
+
+    if save_vector.len() == 0{
+        println!("{}", "Couldn't find any save games ):".red());
+        print!("Press enter to exit...");
+        std::io::stdout().flush().unwrap();
+        io::stdin().read_line(&mut String::new()).unwrap();
+        return;
+    }
 
     println!("\nType the number or name of the game save you'd like to copy, or type ALL to copy all the save files!");
     println!("Type 0 to quit!");
@@ -90,6 +101,11 @@ fn find_save_games(save_locations_file: String, global_path: String) -> Vec<(Str
     let mut save_vector: Vec<(String, String)> = Vec::new();
 
     let mut save_found_counter: u32 = 1;
+
+    if !folder_exists(&format!("{}{}", global_path, "Users\\")){
+        println!("{}", "Couldn't find the Users folder, are you sure this path leads to C:\\?".red());
+        return save_vector;
+    }
 
     for user in fs::read_dir(format!("{}{}", global_path, "Users\\")).unwrap(){
         let user_name = user.as_ref().unwrap().file_name();
