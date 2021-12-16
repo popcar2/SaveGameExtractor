@@ -31,9 +31,11 @@ fn main() {
     // Gets a tuple that stores every found save game as (game_name, save_location)
     let save_vector: Vec<(String, String)> = find_save_games(save_locations_file, global_path);
 
+    println!("\nType the number or name of the game save you'd like to copy, or type ALL to copy all the save files!");
+    println!("Type 0 to quit!");
+
     loop{
-        println!("Type the number of the save you'd like to copy, or its full name, or type ALL to copy all the save files!");
-        print!("Input: ");
+        print!("\nInput: ");
         std::io::stdout().flush().unwrap();
         let mut user_input = String::new();
         io::stdin().read_line(&mut user_input).unwrap();
@@ -59,6 +61,9 @@ fn main() {
                         _game = game.clone();
                         break;
                     }
+                }
+                if _game.0.is_empty(){
+                    println!("{}", "Game not found. Are you sure the name is correct?".red());
                 }
                 _game
             }
@@ -114,11 +119,12 @@ fn find_save_games(save_locations_file: String, global_path: String) -> Vec<(Str
 
 fn copy_save_game(game_name: String, full_save_path: String, mut target_path: String){
     let dir_size = get_size(&full_save_path).unwrap();
+    let dir_size_mb = dir_size / 1024 / 1024;
     let mut options = CopyOptions::new();
     options.overwrite = true;
 
-    if dir_size > 52428800{
-        print!("{} is {}{}! Are you sure you want to copy it? [Y/N]: ", game_name.green(), (dir_size / 1024 / 1024).to_string().red(), "mb".red());
+    if dir_size_mb > 50{
+        print!("{} is {}{}! Are you sure you want to copy it? [Y/N]: ", game_name.green(), dir_size_mb.to_string().red(), "mb".red());
         std::io::stdout().flush().unwrap();
         let mut user_input = String::new();
         io::stdin().read_line(&mut user_input).unwrap();
@@ -133,7 +139,13 @@ fn copy_save_game(game_name: String, full_save_path: String, mut target_path: St
         create_dir_all(&target_path).unwrap();
     }
 
-    print!("Copying {} ({}mb)... ", game_name.green(), dir_size / 1024 / 1024);
+    if dir_size_mb == 0{
+        print!("Copying {} ({}kb)... ", game_name.green(), dir_size / 1024);
+    }
+    else{
+        print!("Copying {} ({}mb)... ", game_name.green(), dir_size_mb);
+    }
+    
     std::io::stdout().flush().unwrap();
 
     copy(&full_save_path, target_path, &options).unwrap();
