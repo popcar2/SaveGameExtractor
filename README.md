@@ -1,4 +1,4 @@
-# Save Game Extractor
+# Save Game Extractor | [Download](https://github.com/popcar2/SaveGameExtractor/releases/)
 Save Game Extractor is a tool that automatically locates and copies save files for Windows games in public directories. Basically, it's a tiny program for quickly backing up your save files, without having to look for them one by one!
 
 # What Save Game Extractor doesn't do
