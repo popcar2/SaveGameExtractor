@@ -1,7 +1,7 @@
 use std::{fs::{self, create_dir_all}, path::Path, io, io::Write};
 use colored::{Colorize};
 use fs_extra::dir::{copy, CopyOptions, get_size};
-// TODO: Add case for C:\ProgramData\.
+// TODO: Add case for C:\ProgramData\. Games that use this:
 // Chicken Invaders
 // Child of light
 // NFS Underground
@@ -16,7 +16,7 @@ fn main() {
     // This text file holds all save game locations
     let save_locations_file: String = fs::read_to_string("save_locations.txt").unwrap();
 
-    // Forces use of color, mainly for windows terminals
+    // Forces use of color, mainly for windows terminals. Commented because doesn't play nicely on Linux.
     //control::set_virtual_terminal(true).unwrap();
 
     // Get the C:\ drive path from user input
@@ -34,6 +34,7 @@ fn main() {
     // Gets a tuple that stores every found save game as (game_name, save_location)
     let save_vector: Vec<(String, String)> = find_save_games(save_locations_file, global_path);
 
+    // Exit if couldn't find any saves
     if save_vector.len() == 0{
         println!("{}", "Couldn't find any save games ):".red());
         print!("Press enter to exit...");
@@ -45,23 +46,28 @@ fn main() {
     println!("\nType the number or name of the game save you'd like to copy, or type ALL to copy all the save files!");
     println!("Type 0 to quit!");
 
+    // Main loop
     loop{
         print!("\nInput: ");
         std::io::stdout().flush().unwrap();
         let mut user_input = String::new();
         io::stdin().read_line(&mut user_input).unwrap();
 
+        // Exit if user input is "0"
         if user_input.trim() == "0"{
             break;
         }
+        // Loop over and copy all games if user input is "all"
         else if user_input.trim().to_lowercase() == "all"{
             for (game_name, full_save_path) in &save_vector{
                 let target_path = format!("Saves/{}", game_name);
                 copy_save_game(game_name.to_string(), full_save_path.to_string(), target_path);
             }
         }
+        // If neither, look for either number of save or save name
         else{
             let (game_name, full_save_path) = match user_input.trim().parse::<usize>(){
+                // If user input is an integer, find number in list. If number doesn't exist, return a tuple with empty strings
                 Ok(n) => {
                     if save_vector.get(n - 1).is_some(){
                         save_vector.get(n - 1).unwrap().clone()
@@ -71,6 +77,7 @@ fn main() {
                         (String::new(), String::new())
                     }
                 },
+                // If user input is NOT an integer, search tuple by game name and return it. If not found, return a tuple with empty strings
                 Err(_) => {
                     let mut _game = (String::new(), String::new());
                     for game in &save_vector{
@@ -86,6 +93,7 @@ fn main() {
                 }
             };
 
+            // If tuple isn't empty, preform the copy
             if !game_name.is_empty(){
                 let target_location = format!("Saves/{}", game_name);
 
@@ -95,35 +103,40 @@ fn main() {
     }
 }
 
-// A function to find every save game and store it in a hashmap
+// A function to find every save game and store it in a tuple of (String, String)
 fn find_save_games(save_locations_file: String, global_path: String) -> Vec<(String, String)>{
     
     let mut save_vector: Vec<(String, String)> = Vec::new();
 
     let mut save_found_counter: u32 = 1;
 
+    // If Users folder doesn't exist, return tuple with empty strings. This means they're in the wrong directory.
     if !folder_exists(&format!("{}/{}", global_path, "Users/")){
         println!("{}", "Couldn't find the Users folder, are you sure this path leads to C:\\?".red());
         return save_vector;
     }
 
+    // If users folder exists, loop over every user and search for save games in them.
     for user in fs::read_dir(format!("{}/{}", global_path, "Users/")).unwrap(){
         let user_name = user.as_ref().unwrap().file_name();
         let user_name = user_name.to_str().unwrap();
-        // "All Users" leads to ProgramData, "Default User" is the same as "Default" IIRC
+
+        // "All Users" leads to ProgramData, "Default User" is the same as "Default" AFAIK
         // And for some reason Rust is convincd desktop.ini is a directory
         if user_name == "All Users" || user_name == "Default User" || user_name == "desktop.ini"{
             continue;
         }
+
         let full_user_path = user.unwrap().path();
         let full_user_path = full_user_path.to_str().unwrap();
 
+        // Loop over every line in the save locations file and look through each one
         for line in save_locations_file.lines(){
             let game_name = line.split(',').next().unwrap().trim();
             let save_path = line.split(',').nth(1).unwrap().trim();
             let full_save_path = format!("{}/{}", full_user_path, save_path).replace("\\", "/");
-            //let mut target_path = format!("Saves\\{}", game_name);
             
+            // If folder exists, push the game and location into tuple.
             if folder_exists(&full_save_path){
 
                 save_vector.push((game_name.to_owned(), full_save_path.clone()));
@@ -146,6 +159,7 @@ fn copy_save_game(game_name: String, full_save_path: String, mut target_path: St
     let mut options = CopyOptions::new();
     options.overwrite = true;
 
+    // If directory is greater than 50mb, prompt the user. Stop the copy if user didn't enter Y
     if dir_size_mb > 50{
         print!("{} is {}{}! Are you sure you want to copy it? [Y/N]: ", game_name.green(), dir_size_mb.to_string().red(), "mb".red());
         std::io::stdout().flush().unwrap();
@@ -157,11 +171,13 @@ fn copy_save_game(game_name: String, full_save_path: String, mut target_path: St
         }
     }
 
+    // Create the local saves directory
     if !folder_exists(&target_path){
         remove_illegal_chars(&mut target_path);
         create_dir_all(&target_path).unwrap();
     }
 
+    // If directory size is <1mb, list it by kb
     if dir_size_mb == 0{
         print!("Copying {} ({}kb)... ", game_name.green(), dir_size / 1024);
     }
