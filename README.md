@@ -8,3 +8,14 @@ There are 3 types of saves that can't be located with this program:
 * Games that store their saves in launchers (such as Steam and Ubisoft Connect). Usually these are stored on the cloud, so it should be fine to ignore them.
 * Games that store their saves in the game's installation folder. These vary wildly, so it's impossible to track them.
 * Games that store their saves in the Windows Registry. I have no idea why some people do this.
+
+# How to use
+## Linux
+
+Extract the tar file, then run ./save_locator
+
+**It is highly recommended to run it as sudo to avoid access denied errors**
+
+## Windows
+
+Extract the rar file then run save_locator.exe
