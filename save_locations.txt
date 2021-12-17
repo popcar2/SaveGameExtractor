@@ -580,6 +580,7 @@ Kingdom Rush: Vengeance, AppData\Local\Kingdom Rush Vengeance
 Kingdom: New Lands, AppData\LocalLow\noio\Kingdom\
 Kingdom: Two Crowns, AppData\LocalLow\noio\KingdomTwoCrowns\Release
 Kingdoms of Amalur: Reckoning, Documents\My Games\Reckoning\
+Keep Talking and Nobody Explodes, AppData\LocalLow\Steel Crate Games\Keep Talking and Nobody Explodes\
 Knightin'+, AppData\Local\Knightin\User Data\Default\IndexedDB\chrome-extension_hjnbfbfljdniledkaamgmdnjfdijmofi_0.indexeddb.leveldb\
 Knights and Bikes, AppData\LocalLow\Foam Sword\Knights and Bikes
 Knights of Pen and Paper 2, AppData\LocalLow\Kyy Games\Knights of Pen and Paper 2\
