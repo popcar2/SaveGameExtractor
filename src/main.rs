@@ -1,14 +1,6 @@
 use std::{fs::{self, create_dir_all}, path::Path, io, io::Write};
-use colored::{Colorize, control};
+use colored::{Colorize};
 use fs_extra::dir::{copy, CopyOptions, get_size};
-// TODO: Add case for C:\ProgramData\. Games that use this:
-// Chicken Invaders
-// Child of light
-// NFS Underground
-// Peggle games
-// Plants vs. Zombies
-// Tom Clancy's Splinter Cell: Double Agent
-// Zuma games
 
 // TODO: What happens if two save games of the same thing are found
 
@@ -17,7 +9,7 @@ fn main() {
     let save_locations_file: String = fs::read_to_string("save_locations.txt").unwrap();
 
     // Forces use of color, mainly for windows terminals. Commented because doesn't play nicely on Linux.
-    control::set_virtual_terminal(true).unwrap();
+    //control::set_virtual_terminal(true).unwrap();
 
     // Get the C:\ drive path from user input
     print!("Where is your C:\\ mount? (If you're on windows just press enter): ");
@@ -136,7 +128,6 @@ fn find_save_games(save_locations_file: String, global_path: String) -> Vec<(Str
             let save_path = line.split(',').nth(1).unwrap().trim();
 
             // C:\ProgramData\, this is needed because by default it loops over C:\Users\
-            // TODO: Make it copy once instead of per-user? Honestly not much of a difference.
             if save_path.starts_with("[programdata]"){
                 let full_programdata_path = format!("{}/ProgramData/{}", global_path, save_path.replace("\\", "/").replace("[programdata]/", "")).replace("//", "/");
 
