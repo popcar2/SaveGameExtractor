@@ -1,5 +1,5 @@
 use std::{fs::{self, create_dir_all}, path::Path, io, io::Write};
-use colored::{Colorize};
+use colored::{Colorize, control};
 use fs_extra::dir::{copy, CopyOptions, get_size};
 // TODO: Add case for C:\ProgramData\. Games that use this:
 // Chicken Invaders
@@ -17,7 +17,7 @@ fn main() {
     let save_locations_file: String = fs::read_to_string("save_locations.txt").unwrap();
 
     // Forces use of color, mainly for windows terminals. Commented because doesn't play nicely on Linux.
-    //control::set_virtual_terminal(true).unwrap();
+    control::set_virtual_terminal(true).unwrap();
 
     // Get the C:\ drive path from user input
     print!("Where is your C:\\ mount? (If you're on windows just press enter): ");
@@ -28,7 +28,7 @@ fn main() {
     // If user didn't type anything, default to C:\
     let mut global_path = global_path.trim().to_owned();
     if global_path.is_empty(){
-        global_path.push_str("C:\\");
+        global_path.push_str("C:/");
     }
 
     // Gets a tuple that stores every found save game as (game_name, save_location)
@@ -134,18 +134,42 @@ fn find_save_games(save_locations_file: String, global_path: String) -> Vec<(Str
         for line in save_locations_file.lines(){
             let game_name = line.split(',').next().unwrap().trim();
             let save_path = line.split(',').nth(1).unwrap().trim();
-            let full_save_path = format!("{}/{}", full_user_path, save_path).replace("\\", "/");
-            
-            // If folder exists, push the game and location into tuple.
-            if folder_exists(&full_save_path){
 
-                save_vector.push((game_name.to_owned(), full_save_path.clone()));
+            // C:\ProgramData\, this is needed because by default it loops over C:\Users\
+            // TODO: Make it copy once instead of per-user? Honestly not much of a difference.
+            if save_path.starts_with("[programdata]"){
+                let full_programdata_path = format!("{}/ProgramData/{}", global_path, save_path.replace("\\", "/").replace("[programdata]/", "")).replace("//", "/");
 
-                println!("{}. {}: {}", save_found_counter.to_string().yellow(), game_name.green(), full_save_path);
+                // If folder exists, push the game and location into tuple.
+                if folder_exists(&full_programdata_path){
 
-                save_found_counter += 1;
+                    // If this was already copied, skip it (this is because we loop over /Users/, without this it'd get copied many times)
+                    if save_vector.iter().any(|game| game.1 == full_programdata_path){
+                        continue;
+                    }
 
-                
+                    save_vector.push((game_name.to_owned(), full_programdata_path.clone()));
+
+                    println!("{}. {}: {}", save_found_counter.to_string().yellow(), game_name.green(), full_programdata_path);
+
+                    save_found_counter += 1;
+                }
+            }
+            // Regular save location
+            else{
+                let full_save_path = format!("{}/{}", full_user_path, save_path).replace("\\", "/").replace("//", "/");
+
+                // If folder exists, push the game and location into tuple.
+                if folder_exists(&full_save_path){
+
+                    save_vector.push((game_name.to_owned(), full_save_path.clone()));
+
+                    println!("{}. {}: {}", save_found_counter.to_string().yellow(), game_name.green(), full_save_path);
+
+                    save_found_counter += 1;
+
+                    
+                }
             }
         }
     }
@@ -159,9 +183,9 @@ fn copy_save_game(game_name: String, full_save_path: String, mut target_path: St
     let mut options = CopyOptions::new();
     options.overwrite = true;
 
-    // If directory is greater than 50mb, prompt the user. Stop the copy if user didn't enter Y
-    if dir_size_mb > 50{
-        print!("{} is {}{}! Are you sure you want to copy it? [Y/N]: ", game_name.green(), dir_size_mb.to_string().red(), "mb".red());
+    // If directory is greater than 100mb, prompt the user. Stop the copy if user didn't enter Y
+    if dir_size_mb >= 100{
+        print!("{} {} {}{}{}", game_name.green(), "is".yellow(), dir_size_mb.to_string().red(), "mb".red(), "! Are you sure you want to copy it? [Y/N]: ".yellow());
         std::io::stdout().flush().unwrap();
         let mut user_input = String::new();
         io::stdin().read_line(&mut user_input).unwrap();

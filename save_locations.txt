@@ -9,12 +9,14 @@
 20XX, Documents\20XX\
 3079, 3079Saves\
 3089, 3089\
+4 Elements, [programdata]\Playrix Entertainment\4 Elements\
 5089, 5089\
 5D Chess With Multiverse Time Travel, AppData\Roaming\Thunkspace\5dchesswithmultiversetimetravel\
 60 Parsecs!, Software\Robot Gentleman\60 Parsecs\
 60 Seconds!, AppData\LocalLow\Robot Gentleman\60 Seconds
 7 Billion Humans, AppData\Roaming\7 Billion Humans\
 7 Days to Die, AppData\Roaming\7DaysToDie\Saves\
+7 Grand Steps: What Ancients Begat, [programdata]\Mousechief\7GS\
 80 Days, AppData\LocalLow\Inkle Studios\80 Days\
 911 Operator, AppData\LocalLow\JutsuGames\911 Operator\
 A Knight's Quest, AppData\Local\AKnightsQuest\Saved\
@@ -67,6 +69,7 @@ Antihero, AppData\Roaming\com.timconkling.aciv\Local Store\SavedGames\
 Apex Legends (config files), Saved Games\Respawn\Apex\
 Aragami, AppData\LocalLow\Lince Works\Aragami\
 Aragami 2, AppData\Local\Packages\34421DavidLen.Aragami2_ad789ek20a95w\SystemAppData\wgs\
+Armada Tanks, [programdata]\Enkord\Armada Tanks\
 ArmA 2, \Documents\ArmA 2\
 ArmA 3, Documents\Arma 3\
 ArmA: Armed Assault, \Documents\ArmA\
@@ -109,7 +112,11 @@ BeamNG.drive, AppData\Local\BeamNG.drive\
 Beat Hazard Ultra, AppData\Roaming\Beat Hazard
 Beat Hazard 2, Documents\ColdBeamGames\BeatHazard2\
 Beat Saber, AppData\LocalLow\Hyperbolic Magnetism\Beat Saber
+Bejeweled, [programdata]\Steam\Bejeweled\userdata\
+Bejeweled 2, [programdata]\Steam\Bejeweled2\users\
 Bejeweled 3, AppData\Local\PopCap Games\Bejeweled3\users\
+Bejeweled Twist, [programdata]\PopCap Games\BejeweledTwist\users\
+Bejeweled Twist, [programdata]\Steam\BejeweledTwist\users\
 Bioshock, Documents\Bioshock\
 Bioshock Remastered, Documents\BioshockHD\
 Bioshock 2, Documents\Bioshock2\SaveGames\
@@ -132,7 +139,13 @@ BloodRayne: Betrayal, AppData\Roaming\Wayforward Technologies\BloodRayne\
 BloodRayne: Terminal Cut, Documents\BloodRayne1\savegame\
 Bloodstained: Ritual of the Night, AppData\Local\BloodstainedRotN\Saved\
 Blur, AppData\Roaming\bizarre creations\blur\save\
+Bob Came in Pieces, [programdata]\Bob Came In Pieces\
 Book of Demons, AppData\Roaming\Return2Games_WIP21
+Bookworm, [programdata]\Steam\Bookworm\players\
+Bookworm Adventures, [programdata]\PopCap Games\WinBAD\users\
+Bookworm Adventures, [programdata]\Steam\WinBAD\users\
+Bookworm Adventures: Volume 2, [programdata]\Popcap Games\BMAVol2\users\
+Bookworm Adventures: Volume 2, [programdata]\Steam\BMAVol2\users\
 Borderlands, Documents\My Games\Borderlands\
 Borderlands 2, Documents\My Games\Borderlands 2\WillowGame
 Borderlands 3, Documents\My Games\Borderlands 3\
@@ -153,6 +166,8 @@ Budget Cuts, \Documents\Budget Cuts Save Data\
 Budget Cuts, AppData\LocalLow\Neat Corporation\Budget Cuts
 Bugsnax, Saved Games\Bugsnax\
 Bully: Scholarship Edition, Documents\Bully Scholarship Edition\
+Burger Shop, [programdata]\GoBit Games\BurgerShop\
+Burger Shop 2, [programdata]\GoBit Games\BurgerShop2\
 Burnout Paradise, AppData\Local\Criterion Games\Burnout Paradise\
 Burnout Paradise: Remastered, Criterion Games\Burnout Paradise Remastered
 Call of Cthulhu, AppData\Local\CallOfCthulhu\Saved\SaveGames\
@@ -171,8 +186,14 @@ Chaos;Head, AppData\Roaming\Nitroplus\CHAOS;HEAD
 Chasm, Documents\Chasm\
 Chernobylite, AppData\Local\ChernobylGame\Saved\
 Chex Quest HD, AppData\Local\ChexHD\Saved\SaveGames\
+Chicken Invaders 3, [programdata]\InterAction studios\CI3
+Chicken Invaders 4, [programdata]\InterAction studios\CI4
+Chicken Invaders 5, [programdata]\InterAction studios\CI5
+Chicken Invaders Universe, [programdata]\InterAction studios\CIU
+Child of Light, [programdata]\Orbit\611\
 Children of Morta, AppData\Local\GOG.com\Galaxy\Applications\49845465038978536\Storage\Shared\Files
 Children of the Nile, Documents\Tilted Mill\Children of the Nile\
+Chronicle of Innsmouth, [programdata]\Adventure Game Studio\Chronicle of Innsmouth
 Chrono Trigger, Documents\My Games\Chrono Trigger\
 Cities In Motion, Documents\Cities In Motion\
 Cities In Motion 2, AppData\LocalLow\Colossal Order\Cities in Motion 2
@@ -387,6 +408,7 @@ Fallout: New Vegas, \Documents\My Games\FalloutNV\Saves
 Fallout 4, Documents\My Games\Fallout4\Saves\
 Fallout Shelter, AppData\Local\FalloutShelter\
 Far Cry 2, Documents\My Games\Far Cry 2\Saved Games\
+Far Cry 3: Blood Dragon, [programdata]\Orbit\205
 Farming Simulator 22, Documents\My Games\FarmingSimulator2022\
 Farming Simulator 19, Documents\My Games\FarmingSimulator2019\
 Farming Simulator 17, Documents\My Games\FarmingSimulator2017\
@@ -474,6 +496,7 @@ Gratutious Space Battles, Documents\My Games\GratuitousSpaceBattles\
 Graven, AppData\Local\Praest\Saved\SaveGames\
 Graveyard Keeper, AppData\LocalLow\Lazy Bear Games\Graveyard Keeper
 Greedfall, Documents\GreedFall\
+GRID 2, [programdata]\Codemasters\GRID 2\DataCache
 Grim Dawn, Documents\My Games\Grim Dawn\save\
 Grim Fandango Remastered, AppData\Roaming\Doublefine\GrimFandango\
 GRIP: Combat Racing, AppData\Local\Grip\Saved\
@@ -632,6 +655,8 @@ Lucius III, AppData\LocalLow\Shiver Games\Lucius III\
 Luck Be a Landlord, AppData\Roaming\Godot\app_userdata\Luck be a Landlord\
 LUFTRAUSERS, AppData\Roaming\.LUFTRAUSERS\
 Lumines Remastered, Packages\EnhanceIncorporated.SHAKECoreGame_63vy8jfbpt4dt\SystemAppData\wgs\
+Luxor 2 HD, AppData\Local\MumboJumbo\Luxor 2 HD\
+Luxor 3, [programdata]\MumboJumbo\Luxor 3\Profiles
 Machinarium, AppData\Roaming\Amanita-Design.Machinarium\
 Mad Games Tycoon, AppData\LocalLow\Eggcode\Mad Games Tycoon\
 Madness: Project Nexus, AppData\LocalLow\Gibbing Tree\Madness Project Nexus\
@@ -715,6 +740,7 @@ Myst V: End of Ages, Documents\My Games\Myst V End of Ages\sav\
 Myst V: End of Ages, AppData\Local\Myst V End of Ages\sav\
 N++, Documents\Metanet\N++\
 Naruto to Boruto: Shinobi Striker, Saved Games\NARUTO TO BORUTO SHINOBI STRIKER\
+NBA 2K21, [programdata]\2K Sports\NBA 2K21\
 Necrobarista, AppData\LocalLow\Route59\Necrobarista\GameSaves\
 Necropolis, AppData\LocalLow\Harebrained Schemes\Necropolis\
 Need for Speed Heat, Documents\Need for Speed Heat\SaveGame\savegame
@@ -730,6 +756,7 @@ Need for Speed: ProStreet, Documents\NFS ProStreet\
 Need for Speed: Shift, Documents\NFS SHIFT\
 Need for Speed: The Run, Documents\NFSTR\settings\
 Need for Speed: Undercover, Documents\NFS Undercover\
+Need for Speed: Underground, [programdata]\NFS Underground\
 Need for Speed: Underground 2, AppData\Local\NFS Underground 2\
 Neighbours back From Hell, AppData\Roaming\Neighbours back From Hell\
 Neighbours from Hell, Documents\JoWooD\NFH1\
@@ -827,6 +854,10 @@ Pathfinder: Kingmaker, AppData\LocalLow\Owlcat Games\Pathfinder Kingmaker\Saved 
 Payday 2, AppData\Local\PAYDAY 2\
 Payday: The Heist, AppData\Local\PAYDAY\
 Persona 5 Strikers, AppData\Roaming\SEGA\Steam\P5S\
+Peggle, [programdata]\Steam\Peggle\
+Peggle Extreme, [programdata]\Steam\PeggleExtreme\
+Peggle Nights, [programdata]\Steam\PeggleNights\
+Peggle: World of Warcraft Edition, [programdata]\PopCap Games\PeggleWoW\
 PewDiePie: Legend of the Brofist, AppData\LocalLow\Outerminds Inc_\PewDiePie\
 Phasmophobia, AppData\LocalLow\Kinetic Games\Phasmophobia\
 Pictopix, AppData\LocalLow\Tomlab Games\Pictopix\
@@ -836,6 +867,7 @@ PixelJunk Shooter, AppData\Roaming\PJShooter\
 PixelJunk Shooter Ultimate, AppData\Roaming\PJShooterUltimate
 Planescape: Torment Enhanced Edition, Documents\Planescape Torment - Enhanced Edition\save\
 Playerunknown's Battlegrounds (configs), AppData\Local\TslGame\Saved\Config\WindowsNoEditor\
+Plants vs. Zombies, [programdata]\PopCap Games\PlantsVsZombies\
 Poly Bridge 2, Documents\Dry Cactus\Poly Bridge 2\SaveSlots
 Postal 4, AppData\Local\Postal4\Saved\SaveGames\
 Postal Redux, AppData\Local\PostalREDUX\
@@ -1035,6 +1067,7 @@ Star Ocean: The Last Hope 4K & Full HD Remaster, Documents\My Games\STAR OCEAN -
 Star Wars Jedi: Fallen Order, Saved Games\Respawn\JediFallenOrder\
 STAR WARS: Squadrons, Documents\STAR WARS Squadrons\
 STAR WARS: Squadrons, Documents\STAR WARS Squadrons Steam\
+Star Wars: The Clone Wars - Republic Heroes, [programdata]\SWTCWRH
 Star Wars: The Force Unleashed, Documents\Aspyr\Star Wars The Force Unleashed\
 Star Wars: The Force Unleashed II, Documents\LucasArts\Star Wars The Force Unleashed 2\Saves\
 StarCraft, Documents\Starcraft\Characters\
@@ -1247,7 +1280,8 @@ Tom Clancy's H.A.W.X. 2, Saved Games\Tom Clancy's H.A.W.X 2\Profiles
 Tom Clancy's Rainbow Six Siege (configs), Documents\My Games\Rainbow Six - Siege\
 Tom Clancy's Rainbow Six: Vegas, Documents\Ubisoft\R6Vegas\
 Tom Clancy's Rainbow Six: Vegas 2, Documents\My Games\Ubisoft\R6Vegas2\
-Tom Clancy's Splinter Cell: Chaos Theory, Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\Profiles\
+Tom Clancy's Splinter Cell: Chaos Theory, [programdata]\Ubisoft\Tom Clancy's Splinter Cell Chaos Theory\Profiles\
+Tom Clancy's Splinter Cell: Double Agent, [programdata]\Application Data\Ubisoft\SplinterCell4\
 Tomb Raider (2013), Documents\My Games\Tomb Raider
 Tomb Raider: Anniversary, Documents\Eidos\Tomb Raider - Anniversary\Default Profile\
 Tomb Raider: Legend, Documents\Tomb Raider - Legend\
@@ -1414,3 +1448,8 @@ Ziggurat, AppData\LocalLow\Milkstone Studios\Ziggurat\
 Ziggurat 2, Documents\My Games\Ziggurat2\
 Zombie Army 4: Dead War, AppData\Local\Zombie Army 4\PC_ProfileSaves\
 Zoo Tycoon 2, AppData\Roaming\Microsoft Games\Zoo Tycoon 2
+Zuma, [programdata]\Steam\Zuma\
+Zuma's Revenge, [programdata]\AtomShockwave\ZumasRevenge\
+Zuma's Revenge, [programdata]\PopCap Games\ZumasRevenge\
+Zuma's Revenge, [programdata]\Steam\ZumasRevenge\
+Zuma's Revenge, [programdata]\WildTangent\ZumasRevenge
