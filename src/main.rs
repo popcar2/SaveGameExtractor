@@ -8,7 +8,7 @@ fn main() {
     // This text file holds all save game locations
     let save_locations_file: String = fs::read_to_string("save_locations.txt").unwrap();
 
-    // Forces use of color, mainly for windows terminals. Commented because doesn't play nicely on Linux.
+    // Forces use of color, mainly for windows terminals. Usually commented because doesn't play nicely on Linux.
     //control::set_virtual_terminal(true).unwrap();
 
     // Get the C:\ drive path from user input

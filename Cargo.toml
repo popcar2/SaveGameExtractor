@@ -5,6 +5,13 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+# Optimize for size. Since this isn't a cpu-intensive program, it should be fine to sacrifice speed.
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+panic = "abort"
+
 [dependencies]
 colored = "2.0.0"
 fs_extra = "1.2.0"
