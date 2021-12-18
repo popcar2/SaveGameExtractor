@@ -421,6 +421,7 @@ Final Fantasy IV (3D Remake), AppData\Local\FF4
 Final Fantasy IX, AppData\LocalLow\SquareEnix\FINAL FANTASY IX\
 Final Fantasy V, Documents\My Games\FINAL FANTASY V PR\
 Final Fantasy VII, Documents\Square Enix\FINAL FANTASY VII Steam\
+Final Fantasy VII Remake Intergrade, Documents\My Games\FINAL FANTASY VII REMAKE\
 Final Fantasy VIII, Documents\Square Enix\FINAL FANTASY VIII Steam
 Final Fantasy VIII Remastered, Documents\My Games\FINAL FANTASY VIII Remastered\
 Final Fantasy X/X-2 HD Remaster, Documents\SQUARE ENIX\FINAL FANTASY X&X-2 HD Remaster\
@@ -716,6 +717,7 @@ Momodora: Reverie under the Moonlight, Packages\53E4EFE6.Momodora_153j13zhvfy8w\
 Monolith, AppData\Roaming\Monolith
 Monster Sanctuary, Documents\My Games\Monster Sanctuary\
 Monster Train, AppData\LocalLow\Shiny Shoe\MonsterTrain\
+Moon: Remix RPG Adventure, AppData\LocalLow\oniongames\moon\Database\
 Moonlighter, AppData\LocalLow\11BitStudios\Moonlighter\
 Moonlighter, AppData\Local\Packages\11bitstudios.20925BA3921E0_gwy9gn5q9j1y6\SystemAppData\wgs\
 Mortal Shell, Documents\My Games\MortalShell\Dungeonhaven\Saved\
