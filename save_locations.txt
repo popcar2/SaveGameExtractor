@@ -91,6 +91,7 @@ Back to Bed, Documents\My Games\Back to Bed\
 Balan Wonderworld, Documents\My Games\BALAN WONDERWORLD\Steam\
 Baldur's Gate 2: Enhanced Edition, Documents\Baldur's Gate II - Enhanced Edition
 Baldur's Gate: Enhanced Edition, Documents\Baldur's Gate - Enhanced Edition
+Baldur's Gate: Dark Alliance, AppData\Local\Baldur's Gate - Dark Alliance\savedata\
 Batman: Arkham Asylum, Documents\Square Enix\Batman Arkham Asylum GOTY\
 Batman: Arkham City, Documents\WB Games\Batman Arkham City GOTY\SaveData\
 Batman: Arkham Origins, Documents\WB Games\Batman Arkham Origins\
@@ -514,6 +515,7 @@ Hades, Documents\Saved Games\Hades\
 Halo 2, AppData\Local\Microsoft\Halo 2\Saved Games\
 Halo: The Master Chief Collection, AppData\Local\Packages\Microsoft.Chelan_8wekyb3d8bbwe\SystemAppData\wgs\
 Halo 5: Forge, AppData\Local\Packages\Microsoft.Halo5Forge_8wekyb3d8bbwe\LocalState
+Halo Infinite, AppData\Local\Packages\Microsoft.254428597CFE2_8wekyb3d8bbwe\SystemAppData\wgs\
 Hand of Fate, AppData\LocalLow\Defiant Development\Hand of Fate\
 Hand of Fate 2, AppData\LocalLow\Defiant Development\Hand of Fate 2\
 Harry Potter and the Chamber of Secrets, Documents\Harry Potter II\
