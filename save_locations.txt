@@ -1112,6 +1112,7 @@ Styx: Master of Shadows, Documents\My Games\Styx\Save\
 Styx: Shards of Darkness, AppData\Local\Styx2\Saved\SaveGames\
 Subnautica, Appdata\LocalLow\Unknown Worlds\Subnautica\Subnautica\
 Subnautica: Below Zero, AppData\LocalLow\Unknown Worlds\Subnautica Below Zero\SubnauticaZero\
+SuchArt: Genius Artist Simulator, AppData\LocalLow\Voolgi\SuchArt\
 Sundered, AppData\LocalLow\Thunder Lotus Games\Sundered\
 Sunless Sea, AppData\LocalLow\Failbetter Games\Sunless Sea\
 Sunless Skies, AppData\LocalLow\Failbetter Games\Sunless Skies\
